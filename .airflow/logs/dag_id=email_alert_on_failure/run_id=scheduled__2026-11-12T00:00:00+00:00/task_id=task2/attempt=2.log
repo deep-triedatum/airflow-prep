@@ -1,0 +1,155 @@
+[2026-11-13T11:52:17.115+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-11-13T11:52:17.126+0530] {taskinstance.py:2631} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: email_alert_on_failure.task2 scheduled__2026-11-12T00:00:00+00:00 [queued]>
+[2026-11-13T11:52:17.131+0530] {taskinstance.py:2631} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: email_alert_on_failure.task2 scheduled__2026-11-12T00:00:00+00:00 [queued]>
+[2026-11-13T11:52:17.131+0530] {taskinstance.py:2884} INFO - Starting attempt 2 of 2
+[2026-11-13T11:52:17.144+0530] {taskinstance.py:2907} INFO - Executing <Task(BashOperator): task2> on 2026-11-12 00:00:00+00:00
+[2026-11-13T11:52:17.145+0530] {standard_task_runner.py:72} INFO - Started process 18620 to run task
+[2026-11-13T11:52:17.148+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'email_alert_on_failure', 'task2', 'scheduled__2026-11-12T00:00:00+00:00', '--job-id', '54', '--raw', '--subdir', 'DAGS_FOLDER/email_alart_on_failure.py', '--cfg-path', '/tmp/tmpzr8cd8ag']
+[2026-11-13T11:52:17.150+0530] {standard_task_runner.py:105} INFO - Job 54: Subtask task2
+[2026-11-13T11:52:17.184+0530] {task_command.py:467} INFO - Running <TaskInstance: email_alert_on_failure.task2 scheduled__2026-11-12T00:00:00+00:00 [running]> on host TD6KSBP74.localdomain
+[2026-11-13T11:52:17.220+0530] {taskinstance.py:3157} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='deepsenchowa1@gmail.com' AIRFLOW_CTX_DAG_OWNER='airflow v2' AIRFLOW_CTX_DAG_ID='email_alert_on_failure' AIRFLOW_CTX_TASK_ID='task2' AIRFLOW_CTX_EXECUTION_DATE='2026-11-12T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2026-11-12T00:00:00+00:00'
+[2026-11-13T11:52:17.220+0530] {taskinstance.py:740} INFO - ::endgroup::
+[2026-11-13T11:52:17.232+0530] {subprocess.py:78} INFO - Tmp dir root location: /tmp
+[2026-11-13T11:52:17.232+0530] {subprocess.py:88} INFO - Running command: ['/usr/bin/bash', '-c', 'ls /nonexistent']
+[2026-11-13T11:52:17.236+0530] {subprocess.py:99} INFO - Output:
+[2026-11-13T11:52:17.239+0530] {subprocess.py:106} INFO - ls: cannot access '/nonexistent': No such file or directory
+[2026-11-13T11:52:17.240+0530] {subprocess.py:110} INFO - Command exited with return code 2
+[2026-11-13T11:52:17.246+0530] {taskinstance.py:3336} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 776, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 742, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 425, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/operators/bash.py", line 276, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2026-11-13T11:52:17.249+0530] {taskinstance.py:1242} INFO - Marking task as FAILED. dag_id=email_alert_on_failure, task_id=task2, run_id=scheduled__2026-11-12T00:00:00+00:00, execution_date=20261112T000000, start_date=20261113T062217, end_date=20261113T062217
+[2026-11-13T11:52:17.257+0530] {logging_mixin.py:190} WARNING - /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py:155 RemovedInAirflow3Warning: Fetching SMTP credentials from configuration variables will be deprecated in a future release. Please set credentials using a connection instead.
+[2026-11-13T11:52:17.257+0530] {configuration.py:1185} WARNING - section/key [smtp/smtp_user] not found in config
+[2026-11-13T11:52:17.258+0530] {email.py:272} INFO - Email alerting: attempt 1
+[2026-11-13T11:52:18.572+0530] {email.py:283} INFO - Sent an alert email to ['deepsenchowa1@gmail.com']
+[2026-11-13T11:52:19.519+0530] {configuration.py:1185} WARNING - section/key [smtp/smtp_user] not found in config
+[2026-11-13T11:52:19.520+0530] {email.py:272} INFO - Email alerting: attempt 1
+[2026-11-13T11:52:20.588+0530] {email.py:283} INFO - Sent an alert email to ['deepsenchowa1@gmail.com']
+[2026-11-13T11:52:21.545+0530] {taskinstance.py:1251} ERROR - Failed to send email to: ['deepsenchowa1@gmail.com']
+Traceback (most recent call last):
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 282, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3184, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3208, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 776, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 742, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 425, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/operators/bash.py", line 276, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 1459, in _email_alert
+    send_email(task.email, subject, html_content)
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 80, in send_email
+    return backend(
+           ^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 155, in send_email_smtp
+    send_mime_email(e_from=mail_from, e_to=recipients, mime_msg=msg, conn_id=conn_id, dryrun=dryrun)
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 284, in send_mime_email
+    smtp_conn.sendmail(e_from, e_to, mime_msg.as_string())
+  File "/home/deeps/.local/share/uv/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 98e67ed59e1d1-3b1aeb17042sm2755658a91.6 - gsmtp', '')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 1249, in _handle_failure
+    task_instance.email_alert(error, failure_context["task"])
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3634, in email_alert
+    _email_alert(task_instance=self, exception=exception, task=task)
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 1461, in _email_alert
+    send_email(task.email, subject, html_content_err)
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 80, in send_email
+    return backend(
+           ^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 155, in send_email_smtp
+    send_mime_email(e_from=mail_from, e_to=recipients, mime_msg=msg, conn_id=conn_id, dryrun=dryrun)
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/email.py", line 284, in send_mime_email
+    smtp_conn.sendmail(e_from, e_to, mime_msg.as_string())
+  File "/home/deeps/.local/share/uv/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. 98e67ed59e1d1-3b1aeb17042sm2755797a91.6 - gsmtp', '')
+[2026-11-13T11:52:21.562+0530] {taskinstance.py:349} INFO - ::group::Post task execution logs
+[2026-11-13T11:52:21.563+0530] {standard_task_runner.py:124} ERROR - Failed to execute job 54 for task task2 (Bash command failed. The command returned a non-zero exit code 2.; 18620)
+Traceback (most recent call last):
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/task/task_runner/standard_task_runner.py", line 117, in _start_by_fork
+    ret = args.func(args, dag=self.dag)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/cli/cli_config.py", line 49, in command
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/cli.py", line 116, in wrapper
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/cli/commands/task_command.py", line 483, in task_run
+    task_return_code = _run_task_by_selected_method(args, _dag, ti)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/cli/commands/task_command.py", line 256, in _run_task_by_selected_method
+    return _run_raw_task(args, ti)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/cli/commands/task_command.py", line 341, in _run_raw_task
+    return ti._run_raw_task(
+           ^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3029, in _run_raw_task
+    return _run_raw_task(
+           ^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 282, in _run_raw_task
+    TaskInstance._execute_task_with_callbacks(
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3184, in _execute_task_with_callbacks
+    result = self._execute_task(context, task_orig)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 3208, in _execute_task
+    return _execute_task(self, context, task_orig)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 776, in _execute_task
+    result = _execute_callable(context=context, **execute_callable_kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/taskinstance.py", line 742, in _execute_callable
+    return ExecutionCallableRunner(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/utils/operator_helpers.py", line 252, in run
+    return self.func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/models/baseoperator.py", line 425, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/operators/bash.py", line 276, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2026-11-13T11:52:21.567+0530] {local_task_job_runner.py:266} INFO - Task exited with return code 1
+[2026-11-13T11:52:21.575+0530] {taskinstance.py:3924} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-11-13T11:52:21.584+0530] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,64 @@
+[2026-11-11T23:26:28.121+0530] {processor.py:186} INFO - Started process (PID=60076) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:26:28.121+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:26:28.122+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.122+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:26:28.131+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:26:28.211+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.210+0530] {override.py:1932} INFO - Created Permission View: can read on DAG:tutorial
+[2026-11-11T23:26:28.220+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.220+0530] {override.py:1932} INFO - Created Permission View: can edit on DAG:tutorial
+[2026-11-11T23:26:28.230+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.230+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG:tutorial
+[2026-11-11T23:26:28.250+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.250+0530] {override.py:1932} INFO - Created Permission View: can read on DAG Run:tutorial
+[2026-11-11T23:26:28.265+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.264+0530] {override.py:1932} INFO - Created Permission View: can create on DAG Run:tutorial
+[2026-11-11T23:26:28.272+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.272+0530] {override.py:1932} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2026-11-11T23:26:28.282+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.281+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2026-11-11T23:26:28.282+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.282+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:26:28.290+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.290+0530] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2026-11-11T23:26:28.296+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:26:28.296+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:26:28.309+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.193 seconds
+[2026-11-11T23:30:12.738+0530] {processor.py:186} INFO - Started process (PID=62195) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:12.742+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:30:12.743+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:12.743+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:12.753+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:12.767+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:12.767+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:30:12.779+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:12.779+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:30:12.796+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2026-11-11T23:30:36.525+0530] {processor.py:186} INFO - Started process (PID=62607) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:36.528+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:30:36.529+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:36.528+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:36.537+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:30:36.552+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:36.552+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:30:36.566+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:36.566+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:30:36.584+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-11-11T23:31:17.636+0530] {processor.py:186} INFO - Started process (PID=63124) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:31:17.636+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:31:17.637+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:17.637+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:31:17.644+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:31:17.655+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:17.655+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:31:17.668+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:17.668+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:31:17.686+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.055 seconds
+[2026-11-11T23:32:07.324+0530] {processor.py:186} INFO - Started process (PID=63747) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:32:07.327+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:32:07.328+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:07.328+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:32:07.338+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:32:07.352+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:07.352+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:32:07.365+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:07.364+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:32:07.381+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2026-11-11T23:33:04.719+0530] {processor.py:186} INFO - Started process (PID=64095) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:33:04.723+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:33:04.725+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:04.725+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:33:04.733+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:33:04.745+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:04.744+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:33:04.758+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:04.758+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:33:04.775+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-11-11T23:34:37.284+0530] {processor.py:186} INFO - Started process (PID=65222) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:34:37.287+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:34:37.288+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:37.288+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:34:37.296+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:34:37.309+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:37.309+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:34:37.323+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:37.323+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:34:37.340+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.060 seconds
+[2026-11-11T23:35:36.483+0530] {processor.py:186} INFO - Started process (PID=66122) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:35:36.487+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-11-11T23:35:36.490+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:36.489+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:35:36.497+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2026-11-11T23:35:36.508+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:36.508+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:35:36.523+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:36.523+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-11-10 00:00:00+00:00, run_after=2026-11-11 00:00:00+00:00
+[2026-11-11T23:35:36.545+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds

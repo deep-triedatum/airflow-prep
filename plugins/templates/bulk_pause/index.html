@@ -1,0 +1,33 @@
+{% extends "airflow/main.html" %}
+{% block title %}Bulk Pause{% endblock %}
+{% block content %}
+<h2>Bulk pause / unpause</h2>
+
+<form method="get" class="form-inline" style="margin-bottom:12px">
+  <input name="q" value="{{ q }}" placeholder="Filter DAG ids" class="form-control">
+  <button class="btn btn-default">Search</button>
+</form>
+
+<form method="post" action="{{ url_for('BulkPauseView.apply') }}">
+  <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th><input type="checkbox" onclick="document.querySelectorAll('.pick').forEach(c => c.checked = this.checked)"></th>
+        <th>DAG</th><th>State</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for d in dags %}
+      <tr>
+        <td><input class="pick" type="checkbox" name="dag_ids" value="{{ d.dag_id }}"></td>
+        <td>{{ d.dag_id }}</td>
+        <td>{{ "Paused" if d.is_paused else "Active" }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <button name="action" value="pause" class="btn btn-warning">Pause selected</button>
+  <button name="action" value="unpause" class="btn btn-success">Unpause selected</button>
+</form>
+{% endblock %}

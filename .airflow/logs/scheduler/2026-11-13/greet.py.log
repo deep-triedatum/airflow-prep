@@ -1,0 +1,1050 @@
+[2026-11-13T11:46:28.741+0530] {processor.py:186} INFO - Started process (PID=17189) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:28.741+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:46:28.742+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:28.742+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:28.749+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:28.763+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:28.763+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:46:28.772+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:28.772+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:46:28.788+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T11:46:59.012+0530] {processor.py:186} INFO - Started process (PID=17303) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:59.014+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:46:59.015+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:59.015+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:59.023+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:46:59.036+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:59.036+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:46:59.045+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:59.045+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:46:59.062+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.055 seconds
+[2026-11-13T11:47:29.301+0530] {processor.py:186} INFO - Started process (PID=17394) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:29.301+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:47:29.303+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:29.302+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:29.313+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:29.329+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:29.329+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:47:29.340+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:29.339+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:47:29.357+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.061 seconds
+[2026-11-13T11:47:59.505+0530] {processor.py:186} INFO - Started process (PID=17561) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:59.513+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:47:59.514+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:59.514+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:59.520+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:47:59.534+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:59.533+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:47:59.543+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:59.543+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:47:59.559+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.061 seconds
+[2026-11-13T11:48:29.802+0530] {processor.py:186} INFO - Started process (PID=17676) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:48:29.805+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:48:29.806+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:29.806+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:48:29.812+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:48:29.825+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:29.825+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:48:29.833+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:29.832+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:48:29.849+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T11:49:00.127+0530] {processor.py:186} INFO - Started process (PID=17808) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:00.130+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:49:00.131+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:00.131+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:00.138+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:00.152+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:00.152+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:49:00.166+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:00.165+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:49:00.189+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.067 seconds
+[2026-11-13T11:49:30.475+0530] {processor.py:186} INFO - Started process (PID=17916) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:30.476+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:49:30.477+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:30.477+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:30.483+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:49:30.497+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:30.497+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:49:30.512+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:30.512+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:49:30.534+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T11:50:00.787+0530] {processor.py:186} INFO - Started process (PID=18000) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:00.790+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:50:00.792+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:00.791+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:00.800+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:00.813+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:00.813+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:50:00.822+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:00.822+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:50:00.853+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.072 seconds
+[2026-11-13T11:50:31.129+0530] {processor.py:186} INFO - Started process (PID=18084) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:31.132+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:50:31.133+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:31.133+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:31.139+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:50:31.151+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:31.151+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:50:31.162+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:31.161+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:50:31.177+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T11:51:01.466+0530] {processor.py:186} INFO - Started process (PID=18226) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:01.468+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:51:01.469+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:01.469+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:01.477+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:01.491+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:01.491+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:51:01.501+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:01.501+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:51:01.519+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T11:51:31.784+0530] {processor.py:186} INFO - Started process (PID=18377) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:31.787+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:51:31.789+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:31.788+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:31.798+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:51:31.815+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:31.815+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:51:31.825+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:31.825+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:51:31.845+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.066 seconds
+[2026-11-13T11:52:02.113+0530] {processor.py:186} INFO - Started process (PID=18539) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:02.114+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:52:02.116+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:02.115+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:02.123+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:02.137+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:02.136+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:52:02.146+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:02.146+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:52:02.162+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T11:52:32.287+0530] {processor.py:186} INFO - Started process (PID=18802) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:32.290+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:52:32.291+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:32.291+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:32.301+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:52:32.320+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:32.320+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:52:32.329+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:32.329+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:52:32.345+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T11:53:02.554+0530] {processor.py:186} INFO - Started process (PID=18961) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:02.556+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:53:02.557+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:02.557+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:02.570+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:02.586+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:02.585+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:53:02.595+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:02.595+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:53:02.618+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T11:53:32.728+0530] {processor.py:186} INFO - Started process (PID=19090) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:32.732+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:53:32.733+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:32.733+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:32.741+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:53:32.757+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:32.757+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:53:32.771+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:32.771+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:53:32.790+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.067 seconds
+[2026-11-13T11:54:02.880+0530] {processor.py:186} INFO - Started process (PID=19180) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:02.883+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:54:02.884+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:02.884+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:02.893+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:02.907+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:02.907+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:54:02.918+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:02.918+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:54:02.934+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T11:54:33.031+0530] {processor.py:186} INFO - Started process (PID=19374) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:33.034+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:54:33.035+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:33.034+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:33.041+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:54:33.056+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:33.056+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:54:33.067+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:33.067+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:54:33.083+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.057 seconds
+[2026-11-13T11:55:03.193+0530] {processor.py:186} INFO - Started process (PID=19515) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:03.197+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:55:03.200+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:03.200+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:03.218+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:03.232+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:03.232+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:55:03.240+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:03.240+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:55:03.259+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.073 seconds
+[2026-11-13T11:55:33.351+0530] {processor.py:186} INFO - Started process (PID=19663) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:33.355+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:55:33.356+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:33.356+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:33.370+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:55:33.385+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:33.385+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:55:33.397+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:33.397+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:55:33.413+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T11:56:03.522+0530] {processor.py:186} INFO - Started process (PID=19850) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:03.523+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:56:03.524+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:03.524+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:03.532+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:03.543+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:03.543+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:56:03.551+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:03.551+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:56:03.568+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T11:56:59.177+0530] {processor.py:186} INFO - Started process (PID=20301) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:59.180+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:56:59.182+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:59.182+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:59.192+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:56:59.212+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:59.212+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:56:59.226+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:59.226+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:56:59.251+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.080 seconds
+[2026-11-13T11:57:32.482+0530] {processor.py:186} INFO - Started process (PID=20512) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:57:32.486+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:57:32.487+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:32.486+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:57:32.494+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:57:32.513+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:32.513+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:57:32.524+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:32.524+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:57:32.541+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T11:58:02.701+0530] {processor.py:186} INFO - Started process (PID=20597) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:02.705+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:58:02.706+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:02.706+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:02.712+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:02.730+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:02.730+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:58:02.741+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:02.741+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:58:02.757+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.064 seconds
+[2026-11-13T11:58:33.103+0530] {processor.py:186} INFO - Started process (PID=20681) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:33.106+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:58:33.107+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:33.107+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:33.113+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:58:33.125+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:33.124+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:58:33.133+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:33.133+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:58:33.149+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.050 seconds
+[2026-11-13T11:59:03.495+0530] {processor.py:186} INFO - Started process (PID=20708) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:03.498+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:59:03.499+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:03.499+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:03.506+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:03.519+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:03.518+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:59:03.527+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:03.527+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:59:03.543+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T11:59:33.965+0530] {processor.py:186} INFO - Started process (PID=20721) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:33.968+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T11:59:33.969+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:33.969+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:33.976+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T11:59:33.988+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:33.988+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:59:33.996+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:33.996+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T11:59:34.012+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T12:00:04.264+0530] {processor.py:186} INFO - Started process (PID=20774) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:04.265+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:00:04.266+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:04.266+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:04.273+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:04.285+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:04.285+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:00:04.295+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:04.295+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:00:04.311+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T12:00:34.559+0530] {processor.py:186} INFO - Started process (PID=20844) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:34.562+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:00:34.563+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:34.562+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:34.573+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:00:34.592+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:34.592+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:00:34.606+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:34.606+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:00:34.625+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.072 seconds
+[2026-11-13T12:01:04.907+0530] {processor.py:186} INFO - Started process (PID=20872) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:04.909+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:01:04.912+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:04.911+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:04.921+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:04.935+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:04.934+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:01:04.950+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:04.950+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:01:04.978+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.078 seconds
+[2026-11-13T12:01:35.311+0530] {processor.py:186} INFO - Started process (PID=20886) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:35.344+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:01:35.346+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:35.346+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:35.355+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:01:35.367+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:35.367+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:01:35.378+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:35.378+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:01:35.397+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.091 seconds
+[2026-11-13T12:02:05.716+0530] {processor.py:186} INFO - Started process (PID=20934) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:05.719+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:02:05.719+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:05.719+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:05.729+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:05.743+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:05.743+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:02:05.751+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:05.751+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:02:05.769+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:02:36.353+0530] {processor.py:186} INFO - Started process (PID=20976) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:36.354+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:02:36.355+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:36.355+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:36.362+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:02:36.375+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:36.375+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:02:36.385+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:36.385+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:02:36.403+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T12:03:06.745+0530] {processor.py:186} INFO - Started process (PID=21014) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:06.746+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:03:06.747+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:06.747+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:06.753+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:06.769+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:06.769+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:03:06.778+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:06.778+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:03:06.798+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:03:37.076+0530] {processor.py:186} INFO - Started process (PID=21027) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:37.080+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:03:37.081+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:37.081+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:37.087+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:03:37.104+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:37.103+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:03:37.114+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:37.114+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:03:37.136+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T12:04:07.413+0530] {processor.py:186} INFO - Started process (PID=21060) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:07.416+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:04:07.417+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:07.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:07.424+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:07.439+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:07.439+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:04:07.449+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:07.449+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:04:07.469+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.060 seconds
+[2026-11-13T12:04:37.756+0530] {processor.py:186} INFO - Started process (PID=21074) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:37.758+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:04:37.760+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:37.759+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:37.768+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:04:37.782+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:37.782+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:04:37.792+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:37.792+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:04:37.814+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:05:08.077+0530] {processor.py:186} INFO - Started process (PID=21099) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:08.078+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:05:08.079+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:08.079+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:08.086+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:08.103+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:08.103+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:05:08.113+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:08.113+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:05:08.134+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.062 seconds
+[2026-11-13T12:05:38.412+0530] {processor.py:186} INFO - Started process (PID=21115) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:38.416+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:05:38.417+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:38.417+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:38.424+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:05:38.439+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:38.439+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:05:38.452+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:38.451+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:05:38.469+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.062 seconds
+[2026-11-13T12:06:08.784+0530] {processor.py:186} INFO - Started process (PID=21309) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:08.787+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:06:08.788+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:08.788+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:08.797+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:08.812+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:08.812+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:06:08.820+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:08.820+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:06:08.839+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.061 seconds
+[2026-11-13T12:06:39.134+0530] {processor.py:186} INFO - Started process (PID=21477) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:39.135+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:06:39.136+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:39.136+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:39.142+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:06:39.155+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:39.154+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:06:39.163+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:39.163+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:06:39.178+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.048 seconds
+[2026-11-13T12:07:09.455+0530] {processor.py:186} INFO - Started process (PID=21676) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:09.457+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:07:09.459+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:09.459+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:09.467+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:09.486+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:09.486+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:07:09.502+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:09.502+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:07:09.521+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.071 seconds
+[2026-11-13T12:07:39.810+0530] {processor.py:186} INFO - Started process (PID=21848) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:39.813+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:07:39.814+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:39.814+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:39.821+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:07:39.834+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:39.834+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:07:39.844+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:39.844+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:07:39.859+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:08:10.128+0530] {processor.py:186} INFO - Started process (PID=21897) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:10.132+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:08:10.133+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:10.132+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:10.139+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:10.150+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:10.150+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:08:10.159+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:10.159+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:08:10.181+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.056 seconds
+[2026-11-13T12:08:40.473+0530] {processor.py:186} INFO - Started process (PID=21911) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:40.476+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:08:40.477+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:40.477+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:40.484+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:08:40.498+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:40.498+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:08:40.509+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:40.509+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:08:40.526+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T12:09:10.767+0530] {processor.py:186} INFO - Started process (PID=21937) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:10.770+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:09:10.771+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:10.771+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:10.778+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:10.791+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:10.791+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:09:10.801+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:10.801+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:09:10.819+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:09:41.106+0530] {processor.py:186} INFO - Started process (PID=21952) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:41.109+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:09:41.110+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:41.110+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:41.118+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:09:41.133+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:41.133+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:09:41.144+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:41.143+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:09:41.161+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.062 seconds
+[2026-11-13T12:10:11.412+0530] {processor.py:186} INFO - Started process (PID=21983) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:11.415+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:10:11.416+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:11.416+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:11.423+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:11.439+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:11.439+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:10:11.449+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:11.448+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:10:11.474+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.067 seconds
+[2026-11-13T12:10:41.751+0530] {processor.py:186} INFO - Started process (PID=21996) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:41.752+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:10:41.753+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:41.753+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:41.761+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:10:41.778+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:41.777+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:10:41.789+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:41.788+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:10:41.814+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T12:11:12.084+0530] {processor.py:186} INFO - Started process (PID=22021) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:12.088+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:11:12.089+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:12.088+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:12.096+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:12.111+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:12.111+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:11:12.123+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:12.123+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:11:12.141+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.062 seconds
+[2026-11-13T12:11:42.412+0530] {processor.py:186} INFO - Started process (PID=22033) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:42.413+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:11:42.414+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:42.413+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:42.422+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:11:42.436+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:42.435+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:11:42.446+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:42.446+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:11:42.463+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.055 seconds
+[2026-11-13T12:12:12.750+0530] {processor.py:186} INFO - Started process (PID=22071) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:12.754+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:12:12.755+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:12.754+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:12.761+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:12.776+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:12.776+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:12:12.786+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:12.786+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:12:12.804+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T12:12:43.104+0530] {processor.py:186} INFO - Started process (PID=22084) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:43.107+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:12:43.108+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:43.108+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:43.115+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:12:43.127+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:43.127+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:12:43.135+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:43.135+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:12:43.151+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T12:13:13.461+0530] {processor.py:186} INFO - Started process (PID=22183) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:13.464+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:13:13.466+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:13.465+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:13.472+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:13.483+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:13.483+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:13:13.492+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:13.492+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:13:13.506+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.050 seconds
+[2026-11-13T12:13:43.766+0530] {processor.py:186} INFO - Started process (PID=22220) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:43.768+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:13:43.769+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:43.768+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:43.775+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:13:43.786+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:43.786+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:13:43.794+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:43.794+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:13:43.809+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.046 seconds
+[2026-11-13T12:14:14.109+0530] {processor.py:186} INFO - Started process (PID=22268) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:14.112+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:14:14.113+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:14.112+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:14.119+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:14.131+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:14.131+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:14:14.144+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:14.144+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:14:14.166+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:14:44.406+0530] {processor.py:186} INFO - Started process (PID=22328) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:44.407+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:14:44.407+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:44.407+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:44.413+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:14:44.425+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:44.424+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:14:44.433+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:44.433+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:14:44.450+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:15:14.690+0530] {processor.py:186} INFO - Started process (PID=22450) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:14.694+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:15:14.694+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:14.694+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:14.701+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:14.712+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:14.712+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:15:14.720+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:14.720+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:15:14.737+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:15:44.927+0530] {processor.py:186} INFO - Started process (PID=22488) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:44.929+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:15:44.930+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:44.930+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:44.938+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:15:44.952+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:44.952+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:15:44.961+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:44.961+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:15:44.978+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.056 seconds
+[2026-11-13T12:16:15.166+0530] {processor.py:186} INFO - Started process (PID=22543) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:15.170+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:16:15.171+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:15.171+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:15.177+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:15.189+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:15.189+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:16:15.198+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:15.198+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:16:15.215+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.056 seconds
+[2026-11-13T12:16:45.398+0530] {processor.py:186} INFO - Started process (PID=22581) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:45.401+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:16:45.402+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:45.402+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:45.408+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:16:45.420+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:45.420+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:16:45.428+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:45.428+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:16:45.443+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:17:15.624+0530] {processor.py:186} INFO - Started process (PID=22646) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:15.625+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:17:15.626+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:15.626+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:15.632+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:15.644+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:15.644+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:17:15.652+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:15.652+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:17:15.668+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:17:45.927+0530] {processor.py:186} INFO - Started process (PID=22769) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:45.931+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:17:45.932+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:45.931+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:45.938+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:17:45.949+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:45.949+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:17:45.958+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:45.957+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:17:45.973+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:18:16.193+0530] {processor.py:186} INFO - Started process (PID=22855) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:16.197+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:18:16.198+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:16.197+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:16.203+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:16.215+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:16.215+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:18:16.223+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:16.223+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:18:16.238+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.050 seconds
+[2026-11-13T12:18:46.450+0530] {processor.py:186} INFO - Started process (PID=22898) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:46.453+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:18:46.454+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:46.454+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:46.461+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:18:46.472+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:46.472+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:18:46.481+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:46.480+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:18:46.496+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:19:16.709+0530] {processor.py:186} INFO - Started process (PID=23003) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:16.712+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:19:16.713+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:16.713+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:16.721+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:16.733+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:16.733+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:19:16.741+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:16.741+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:19:16.756+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T12:19:47.040+0530] {processor.py:186} INFO - Started process (PID=23088) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:47.043+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:19:47.044+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:47.043+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:47.050+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:19:47.062+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:47.061+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:19:47.070+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:47.070+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:19:47.085+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:20:17.395+0530] {processor.py:186} INFO - Started process (PID=23291) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:17.398+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:20:17.399+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:17.399+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:17.405+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:17.417+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:17.417+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:20:17.425+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:17.425+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:20:17.440+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:20:47.729+0530] {processor.py:186} INFO - Started process (PID=23467) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:47.732+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:20:47.733+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:47.733+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:47.741+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:20:47.759+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:47.759+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:20:47.770+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:47.770+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:20:47.791+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T12:21:18.189+0530] {processor.py:186} INFO - Started process (PID=23539) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:18.191+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:21:18.193+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:18.192+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:18.211+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:18.225+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:18.225+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:21:18.239+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:18.239+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:21:18.254+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.068 seconds
+[2026-11-13T12:21:48.550+0530] {processor.py:186} INFO - Started process (PID=23574) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:48.553+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:21:48.555+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:48.554+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:48.561+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:21:48.572+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:48.572+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:21:48.581+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:48.581+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:21:48.597+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:22:18.934+0530] {processor.py:186} INFO - Started process (PID=23613) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:18.938+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:22:18.939+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:18.938+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:18.945+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:18.958+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:18.958+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:22:18.970+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:18.970+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:22:18.988+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:22:49.256+0530] {processor.py:186} INFO - Started process (PID=23655) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:49.259+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:22:49.260+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:49.260+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:49.267+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:22:49.279+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:49.279+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:22:49.287+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:49.287+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:22:49.301+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.050 seconds
+[2026-11-13T12:23:19.459+0530] {processor.py:186} INFO - Started process (PID=23706) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:19.489+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:23:19.491+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:19.490+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:19.501+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:19.514+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:19.514+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:23:19.523+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:19.523+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:23:19.540+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.088 seconds
+[2026-11-13T12:23:49.642+0530] {processor.py:186} INFO - Started process (PID=23882) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:49.672+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:23:49.674+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:49.674+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:49.687+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:23:49.711+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:49.711+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:23:49.722+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:49.722+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:23:49.751+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.114 seconds
+[2026-11-13T12:24:19.943+0530] {processor.py:186} INFO - Started process (PID=23956) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:19.946+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:24:19.948+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:19.947+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:19.953+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:19.965+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:19.965+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:24:19.973+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:19.973+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:24:19.988+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T12:24:50.152+0530] {processor.py:186} INFO - Started process (PID=23994) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:50.155+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:24:50.156+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:50.156+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:50.164+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:24:50.177+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:50.177+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:24:50.188+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:50.188+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:24:50.206+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T12:25:20.346+0530] {processor.py:186} INFO - Started process (PID=24133) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:20.349+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:25:20.350+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:20.350+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:20.357+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:20.370+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:20.370+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:25:20.380+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:20.379+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:25:20.394+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:25:50.522+0530] {processor.py:186} INFO - Started process (PID=24300) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:50.525+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:25:50.526+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:50.525+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:50.532+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:25:50.545+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:50.544+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:25:50.556+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:50.556+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:25:50.571+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.055 seconds
+[2026-11-13T12:26:20.716+0530] {processor.py:186} INFO - Started process (PID=24349) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:20.719+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:26:20.720+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:20.720+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:20.726+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:20.739+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:20.738+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:26:20.747+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:20.747+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:26:20.763+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:26:50.946+0530] {processor.py:186} INFO - Started process (PID=24408) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:50.949+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:26:50.951+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:50.950+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:50.959+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:26:50.976+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:50.976+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:26:50.987+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:50.987+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:26:51.002+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:27:21.223+0530] {processor.py:186} INFO - Started process (PID=24472) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:21.226+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:27:21.228+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:21.227+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:21.238+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:21.256+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:21.256+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:27:21.267+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:21.267+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:27:21.298+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.081 seconds
+[2026-11-13T12:27:51.479+0530] {processor.py:186} INFO - Started process (PID=24575) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:51.483+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:27:51.487+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:51.486+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:51.498+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:27:51.516+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:51.515+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:27:51.526+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:51.525+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:27:51.543+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.072 seconds
+[2026-11-13T12:28:21.725+0530] {processor.py:186} INFO - Started process (PID=24626) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:21.728+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:28:21.729+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:21.729+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:21.737+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:21.754+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:21.754+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:28:21.764+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:21.764+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:28:21.783+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.066 seconds
+[2026-11-13T12:28:52.000+0530] {processor.py:186} INFO - Started process (PID=24670) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:52.001+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:28:52.002+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:52.001+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:52.010+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:28:52.030+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:52.030+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:28:52.056+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:52.056+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:28:52.084+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.091 seconds
+[2026-11-13T12:29:22.276+0530] {processor.py:186} INFO - Started process (PID=24719) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:22.279+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:29:22.281+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:22.281+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:22.289+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:22.307+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:22.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:29:22.317+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:22.317+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:29:22.333+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:29:52.682+0530] {processor.py:186} INFO - Started process (PID=24752) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:52.683+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:29:52.684+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:52.684+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:52.697+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:29:52.718+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:52.718+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:29:52.732+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:52.731+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:29:52.750+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.074 seconds
+[2026-11-13T12:30:22.995+0530] {processor.py:186} INFO - Started process (PID=24777) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:22.997+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:30:22.998+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:22.998+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:23.007+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:23.024+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:23.024+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:30:23.035+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:23.035+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:30:23.052+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T12:30:53.405+0530] {processor.py:186} INFO - Started process (PID=24790) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:53.409+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:30:53.410+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:53.410+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:53.417+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:30:53.435+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:53.435+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:30:53.448+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:53.448+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:30:53.473+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.075 seconds
+[2026-11-13T12:31:23.780+0530] {processor.py:186} INFO - Started process (PID=24848) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:23.783+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:31:23.784+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:23.784+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:23.792+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:23.807+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:23.807+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:31:23.820+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:23.820+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:31:23.839+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.064 seconds
+[2026-11-13T12:31:53.932+0530] {processor.py:186} INFO - Started process (PID=24980) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:53.933+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:31:53.935+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:53.934+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:53.944+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:31:53.959+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:53.959+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:31:53.973+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:53.973+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:31:53.994+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.067 seconds
+[2026-11-13T12:32:24.096+0530] {processor.py:186} INFO - Started process (PID=25042) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:24.100+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:32:24.102+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:24.101+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:24.111+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:24.128+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:24.128+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:32:24.139+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:24.139+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:32:24.159+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.071 seconds
+[2026-11-13T12:32:54.244+0530] {processor.py:186} INFO - Started process (PID=25081) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:54.246+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:32:54.248+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:54.247+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:54.255+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:32:54.270+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:54.269+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:32:54.280+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:54.280+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:32:54.295+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.057 seconds
+[2026-11-13T12:33:24.423+0530] {processor.py:186} INFO - Started process (PID=25132) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:24.424+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:33:24.425+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:24.425+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:24.431+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:24.445+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:24.444+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:33:24.469+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:24.468+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:33:24.494+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.080 seconds
+[2026-11-13T12:33:54.593+0530] {processor.py:186} INFO - Started process (PID=25171) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:54.596+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:33:54.597+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:54.597+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:54.605+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:33:54.621+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:54.620+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:33:54.635+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:54.635+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:33:54.652+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T12:34:24.759+0530] {processor.py:186} INFO - Started process (PID=25228) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:24.763+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:34:24.768+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:24.766+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:24.789+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:24.813+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:24.813+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:34:24.823+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:24.823+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:34:24.851+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.112 seconds
+[2026-11-13T12:34:55.015+0530] {processor.py:186} INFO - Started process (PID=25271) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:55.019+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:34:55.020+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:55.019+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:55.025+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:34:55.039+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:55.039+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:34:55.049+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:55.049+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:34:55.067+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.060 seconds
+[2026-11-13T12:35:25.160+0530] {processor.py:186} INFO - Started process (PID=25323) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:25.164+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:35:25.165+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:25.164+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:25.172+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:25.185+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:25.185+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:35:25.195+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:25.195+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:35:25.210+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.055 seconds
+[2026-11-13T12:35:55.316+0530] {processor.py:186} INFO - Started process (PID=25363) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:55.317+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:35:55.318+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:55.318+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:55.324+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:35:55.336+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:55.336+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:35:55.346+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:55.346+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:35:55.362+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:36:25.487+0530] {processor.py:186} INFO - Started process (PID=25453) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:25.488+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:36:25.489+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:25.489+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:25.496+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:25.511+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:25.510+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:36:25.521+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:25.520+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:36:25.538+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.056 seconds
+[2026-11-13T12:36:55.660+0530] {processor.py:186} INFO - Started process (PID=25490) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:55.663+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:36:55.665+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:55.665+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:55.671+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:36:55.684+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:55.684+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:36:55.694+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:55.694+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:36:55.710+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.056 seconds
+[2026-11-13T12:37:25.824+0530] {processor.py:186} INFO - Started process (PID=25551) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:25.825+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:37:25.826+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:25.826+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:25.835+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:25.852+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:25.852+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:37:25.868+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:25.868+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:37:25.883+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.064 seconds
+[2026-11-13T12:37:56.003+0530] {processor.py:186} INFO - Started process (PID=25597) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:56.007+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:37:56.009+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:56.009+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:56.019+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:37:56.044+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:56.044+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:37:56.053+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:56.053+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:37:56.069+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.076 seconds
+[2026-11-13T12:38:26.156+0530] {processor.py:186} INFO - Started process (PID=25765) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:26.160+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:38:26.162+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:26.161+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:26.169+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:26.181+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:26.181+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:38:26.191+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:26.191+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:38:26.207+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T12:38:52.205+0530] {processor.py:186} INFO - Started process (PID=25978) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:52.207+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:38:52.208+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:52.207+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:52.218+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:38:52.232+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:52.232+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:38:52.241+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:52.241+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:38:52.257+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.057 seconds
+[2026-11-13T12:39:22.498+0530] {processor.py:186} INFO - Started process (PID=26035) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:22.501+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:39:22.502+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:22.502+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:22.512+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:22.527+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:22.527+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:39:22.537+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:22.537+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:39:22.557+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.075 seconds
+[2026-11-13T12:39:52.952+0530] {processor.py:186} INFO - Started process (PID=26107) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:52.956+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:39:52.957+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:52.957+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:52.964+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:39:52.977+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:52.977+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:39:52.988+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:52.988+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:39:53.006+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T12:40:14.763+0530] {processor.py:186} INFO - Started process (PID=26332) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:40:14.764+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:40:14.767+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:14.766+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:40:14.775+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:40:14.800+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:14.800+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:40:14.813+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:14.812+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:40:14.829+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.071 seconds
+[2026-11-13T12:41:55.659+0530] {processor.py:186} INFO - Started process (PID=26490) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:41:55.662+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:41:55.664+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:55.663+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:41:55.666+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:41:55.679+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:55.679+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:41:55.686+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:55.686+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:41:55.701+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.046 seconds
+[2026-11-13T12:42:25.961+0530] {processor.py:186} INFO - Started process (PID=26527) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:25.965+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:42:25.966+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:25.966+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:25.969+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:25.983+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:25.983+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:42:25.992+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:25.992+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:42:26.009+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:42:56.422+0530] {processor.py:186} INFO - Started process (PID=26540) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:56.425+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:42:56.426+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:56.426+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:56.429+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:42:56.446+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:56.446+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:42:56.453+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:56.453+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:42:56.468+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:43:26.891+0530] {processor.py:186} INFO - Started process (PID=26587) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:26.893+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:43:26.894+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:26.894+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:26.901+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:26.918+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:26.917+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:43:26.926+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:26.926+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:43:26.946+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.060 seconds
+[2026-11-13T12:43:57.253+0530] {processor.py:186} INFO - Started process (PID=26600) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:57.256+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:43:57.257+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:57.257+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:57.261+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:43:57.277+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:57.277+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:43:57.286+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:57.286+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:43:57.302+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.055 seconds
+[2026-11-13T12:44:27.702+0530] {processor.py:186} INFO - Started process (PID=26647) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:27.705+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:44:27.706+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:27.706+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:27.710+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:27.726+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:27.726+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:44:27.734+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:27.734+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:44:27.752+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T12:44:58.262+0530] {processor.py:186} INFO - Started process (PID=26748) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:58.272+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:44:58.274+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:58.274+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:58.279+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:44:58.300+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:58.299+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:44:58.310+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:58.310+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:44:58.327+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T12:45:28.600+0530] {processor.py:186} INFO - Started process (PID=26809) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:28.603+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:45:28.606+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:28.605+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:28.610+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:28.626+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:28.626+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:45:28.634+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:28.634+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:45:28.648+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T12:45:59.114+0530] {processor.py:186} INFO - Started process (PID=26848) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:59.117+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:45:59.119+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:59.119+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:59.124+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:45:59.141+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:59.141+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:45:59.148+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:59.148+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:45:59.166+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:47:53.199+0530] {processor.py:186} INFO - Started process (PID=27245) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:47:53.202+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:47:53.203+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:53.203+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:47:53.212+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:47:53.232+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:53.232+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:47:53.243+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:53.243+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:47:53.259+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T12:48:24.279+0530] {processor.py:186} INFO - Started process (PID=27282) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:24.280+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:48:24.281+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:24.281+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:24.290+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:24.309+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:24.309+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:48:24.319+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:24.319+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:48:24.335+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:48:55.406+0530] {processor.py:186} INFO - Started process (PID=27295) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:55.410+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:48:55.411+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:55.410+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:55.417+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:48:55.431+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:55.431+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:48:55.440+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:55.440+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:48:55.456+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.057 seconds
+[2026-11-13T12:49:26.525+0530] {processor.py:186} INFO - Started process (PID=27320) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:26.528+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:49:26.530+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:26.530+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:26.539+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:26.553+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:26.552+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:49:26.561+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:26.561+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:49:26.575+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:49:57.468+0530] {processor.py:186} INFO - Started process (PID=27333) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:57.469+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:49:57.470+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:57.469+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:57.476+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:49:57.494+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:57.494+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:49:57.504+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:57.504+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:49:57.522+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.060 seconds
+[2026-11-13T12:51:35.718+0530] {processor.py:186} INFO - Started process (PID=27752) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:51:35.722+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:51:35.723+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:35.722+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:51:35.729+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:51:35.742+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:35.742+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:51:35.751+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:35.751+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:51:35.767+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:52:06.041+0530] {processor.py:186} INFO - Started process (PID=27886) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:06.042+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:52:06.044+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:06.043+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:06.050+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:06.064+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:06.063+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:52:06.073+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:06.072+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:52:06.091+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T12:52:36.507+0530] {processor.py:186} INFO - Started process (PID=28043) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:36.510+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:52:36.511+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:36.510+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:36.518+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:52:36.530+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:36.530+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:52:36.539+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:36.538+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:52:36.555+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:53:06.935+0530] {processor.py:186} INFO - Started process (PID=28243) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:06.936+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:53:06.937+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:06.936+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:06.946+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:06.959+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:06.959+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:53:06.971+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:06.971+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:53:07.000+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.069 seconds
+[2026-11-13T12:53:37.298+0530] {processor.py:186} INFO - Started process (PID=28317) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:37.301+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:53:37.302+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:37.302+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:37.308+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:53:37.322+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:37.321+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:53:37.330+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:37.330+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:53:37.346+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T12:54:07.817+0530] {processor.py:186} INFO - Started process (PID=28451) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:07.818+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:54:07.819+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:07.819+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:07.826+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:07.839+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:07.839+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:54:07.847+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:07.847+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:54:07.863+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:54:38.253+0530] {processor.py:186} INFO - Started process (PID=28611) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:38.256+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:54:38.258+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:38.257+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:38.266+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:54:38.278+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:38.278+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:54:38.287+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:38.286+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:54:38.303+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:55:08.587+0530] {processor.py:186} INFO - Started process (PID=28797) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:08.591+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:55:08.592+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:08.592+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:08.599+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:08.611+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:08.611+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:55:08.619+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:08.619+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:55:08.646+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.065 seconds
+[2026-11-13T12:55:47.784+0530] {processor.py:186} INFO - Started process (PID=29090) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:47.787+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:55:47.788+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:47.788+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:47.796+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:55:47.814+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:47.814+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:55:47.825+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:47.824+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:55:47.842+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.062 seconds
+[2026-11-13T12:56:18.852+0530] {processor.py:186} INFO - Started process (PID=29172) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:56:18.854+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:56:18.856+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:18.856+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:56:18.863+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:56:18.878+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:18.878+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:56:18.890+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:18.890+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:56:18.909+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.063 seconds
+[2026-11-13T12:57:43.480+0530] {processor.py:186} INFO - Started process (PID=29464) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:57:43.483+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:57:43.484+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:43.484+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:57:43.493+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:57:43.506+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:43.506+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:57:43.514+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:43.514+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:57:43.529+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds
+[2026-11-13T12:58:14.771+0530] {processor.py:186} INFO - Started process (PID=29489) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:14.774+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:58:14.775+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:14.775+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:14.781+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:14.794+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:14.794+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:58:14.806+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:14.805+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:58:14.823+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.057 seconds
+[2026-11-13T12:58:45.253+0530] {processor.py:186} INFO - Started process (PID=29502) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:45.256+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:58:45.257+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:45.257+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:45.263+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:58:45.275+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:45.275+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:58:45.285+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:45.285+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:58:45.306+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.058 seconds
+[2026-11-13T12:59:15.681+0530] {processor.py:186} INFO - Started process (PID=29550) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:15.682+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:59:15.683+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:15.683+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:15.689+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:15.702+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:15.702+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:59:15.712+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:15.712+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:59:15.728+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.051 seconds
+[2026-11-13T12:59:46.317+0530] {processor.py:186} INFO - Started process (PID=29573) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:46.320+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T12:59:46.321+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:46.321+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:46.329+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T12:59:46.345+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:46.344+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:59:46.356+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:46.356+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T12:59:46.373+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.061 seconds
+[2026-11-13T13:01:31.686+0530] {processor.py:186} INFO - Started process (PID=30197) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:01:31.689+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:01:31.691+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:31.690+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:01:31.695+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:01:31.708+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:31.708+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:01:31.715+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:31.715+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:01:31.732+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.050 seconds
+[2026-11-13T13:02:01.999+0530] {processor.py:186} INFO - Started process (PID=30266) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:02.003+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:02:02.004+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:02.004+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:02.008+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:02.023+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:02.023+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:02:02.031+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:02.031+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:02:02.048+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T13:02:32.435+0530] {processor.py:186} INFO - Started process (PID=30292) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:32.439+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:02:32.440+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:32.439+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:32.443+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:02:32.458+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:32.458+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:02:32.467+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:32.467+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:02:32.484+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T13:03:02.907+0530] {processor.py:186} INFO - Started process (PID=30432) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:02.910+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:03:02.913+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:02.912+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:02.921+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:02.937+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:02.937+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:03:02.948+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:02.947+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:03:02.962+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.059 seconds
+[2026-11-13T13:03:33.262+0530] {processor.py:186} INFO - Started process (PID=30592) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:33.265+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:03:33.266+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:33.266+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:33.271+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:03:33.286+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:33.286+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:03:33.293+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:33.293+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:03:33.310+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T13:04:03.741+0530] {processor.py:186} INFO - Started process (PID=30734) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:03.744+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:04:03.746+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:03.746+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:03.751+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:03.772+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:03.772+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:04:03.783+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:03.783+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:04:03.799+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.064 seconds
+[2026-11-13T13:04:34.222+0530] {processor.py:186} INFO - Started process (PID=30828) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:34.225+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:04:34.226+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:34.226+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:34.229+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:04:34.242+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:34.242+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:04:34.250+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:34.249+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:04:34.265+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.048 seconds
+[2026-11-13T13:05:04.694+0530] {processor.py:186} INFO - Started process (PID=30927) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:05:04.695+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:05:04.695+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:04.695+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:05:04.699+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:05:04.715+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:04.714+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:05:04.723+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:04.723+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:05:04.737+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T13:06:47.980+0530] {processor.py:186} INFO - Started process (PID=31300) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:06:47.984+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:06:47.986+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:47.986+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:06:47.993+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:06:48.012+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:48.011+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:06:48.023+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:48.023+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:06:48.043+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.068 seconds
+[2026-11-13T13:08:01.474+0530] {processor.py:186} INFO - Started process (PID=31534) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:01.480+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:08:01.481+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:01.481+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:01.487+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:01.497+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:01.497+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:08:01.506+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:01.506+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:08:01.523+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T13:08:32.857+0530] {processor.py:186} INFO - Started process (PID=31573) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:32.858+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:08:32.859+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:32.858+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:32.865+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:08:32.877+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:32.877+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:08:32.886+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:32.885+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:08:32.902+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.049 seconds
+[2026-11-13T13:09:03.296+0530] {processor.py:186} INFO - Started process (PID=31629) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:03.299+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:09:03.300+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:03.300+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:03.307+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:03.319+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:03.319+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:09:03.328+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:03.328+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:09:03.344+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.052 seconds
+[2026-11-13T13:09:33.789+0530] {processor.py:186} INFO - Started process (PID=31649) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:33.792+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:09:33.793+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:33.793+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:33.801+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:09:33.813+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:33.813+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:09:33.821+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:33.821+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:09:33.839+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.054 seconds
+[2026-11-13T13:11:04.464+0530] {processor.py:186} INFO - Started process (PID=31747) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:11:04.467+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py for tasks to queue
+[2026-11-13T13:11:04.469+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:04.469+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:11:04.478+0530] {processor.py:925} INFO - DAG(s) 'greeting_dag' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py
+[2026-11-13T13:11:04.490+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:04.490+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:11:04.499+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:04.499+0530] {dag.py:4180} INFO - Setting next_dagrun for greeting_dag to None, run_after=None
+[2026-11-13T13:11:04.513+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/greet.py took 0.053 seconds

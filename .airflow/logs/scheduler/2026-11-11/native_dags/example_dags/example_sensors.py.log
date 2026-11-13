@@ -1,0 +1,57 @@
+[2026-11-11T23:30:27.454+0530] {processor.py:186} INFO - Started process (PID=62457) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:27.455+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:30:27.456+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.455+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:27.467+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:27.541+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.541+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG:example_sensors
+[2026-11-11T23:30:27.551+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.551+0530] {override.py:1932} INFO - Created Permission View: can edit on DAG:example_sensors
+[2026-11-11T23:30:27.560+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.560+0530] {override.py:1932} INFO - Created Permission View: can read on DAG:example_sensors
+[2026-11-11T23:30:27.575+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.574+0530] {override.py:1932} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2026-11-11T23:30:27.583+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.583+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2026-11-11T23:30:27.592+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.591+0530] {override.py:1932} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2026-11-11T23:30:27.604+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.604+0530] {override.py:1932} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2026-11-11T23:30:27.605+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.605+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:30:27.612+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.612+0530] {dag.py:3262} INFO - Creating ORM DAG for example_sensors
+[2026-11-11T23:30:27.613+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:27.612+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:30:27.632+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.183 seconds
+[2026-11-11T23:30:51.283+0530] {processor.py:186} INFO - Started process (PID=62702) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:51.284+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:30:51.284+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:51.284+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:51.294+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:30:51.299+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:51.299+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:30:51.308+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:51.308+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:30:51.326+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.047 seconds
+[2026-11-11T23:31:31.970+0530] {processor.py:186} INFO - Started process (PID=63274) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:31:31.974+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:31:31.975+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:31.975+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:31:31.987+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:31:32.000+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:32.000+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:31:32.008+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:31:32.008+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:31:32.026+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.060 seconds
+[2026-11-11T23:32:21.163+0530] {processor.py:186} INFO - Started process (PID=63825) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:32:21.167+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:32:21.168+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:21.168+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:32:21.178+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:32:21.193+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:21.193+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:32:21.200+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:21.200+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:32:21.218+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2026-11-11T23:33:19.029+0530] {processor.py:186} INFO - Started process (PID=64172) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:33:19.063+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:33:19.067+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:19.066+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:33:19.084+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:33:19.098+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:19.098+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:33:19.105+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:19.105+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:33:19.125+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.102 seconds
+[2026-11-11T23:34:51.074+0530] {processor.py:186} INFO - Started process (PID=65499) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:34:51.077+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:34:51.078+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:51.078+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:34:51.088+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:34:51.104+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:51.104+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:34:51.112+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:34:51.112+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:34:51.131+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.061 seconds
+[2026-11-11T23:35:50.477+0530] {processor.py:186} INFO - Started process (PID=66226) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:35:50.478+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2026-11-11T23:35:50.479+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:50.479+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:35:50.488+0530] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2026-11-11T23:35:50.504+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:50.504+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:35:50.512+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:50.512+0530] {dag.py:4180} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2026-11-11T23:35:50.529+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.056 seconds

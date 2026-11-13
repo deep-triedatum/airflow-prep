@@ -1,0 +1,17 @@
+[2026-11-11T23:13:48.433+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-11-11T23:13:48.440+0530] {taskinstance.py:2631} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: numbers_etl.square_even_numbers manual__2026-11-11T17:43:44.235215+00:00 [queued]>
+[2026-11-11T23:13:48.445+0530] {taskinstance.py:2631} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: numbers_etl.square_even_numbers manual__2026-11-11T17:43:44.235215+00:00 [queued]>
+[2026-11-11T23:13:48.445+0530] {taskinstance.py:2884} INFO - Starting attempt 1 of 1
+[2026-11-11T23:13:48.456+0530] {taskinstance.py:2907} INFO - Executing <Task(PythonOperator): square_even_numbers> on 2026-11-11 17:43:44.235215+00:00
+[2026-11-11T23:13:48.458+0530] {standard_task_runner.py:72} INFO - Started process 52071 to run task
+[2026-11-11T23:13:48.465+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'numbers_etl', 'square_even_numbers', 'manual__2026-11-11T17:43:44.235215+00:00', '--job-id', '10', '--raw', '--subdir', 'DAGS_FOLDER/numbers_etl.py', '--cfg-path', '/tmp/tmpu1a4nfxq']
+[2026-11-11T23:13:48.468+0530] {standard_task_runner.py:105} INFO - Job 10: Subtask square_even_numbers
+[2026-11-11T23:13:48.508+0530] {task_command.py:467} INFO - Running <TaskInstance: numbers_etl.square_even_numbers manual__2026-11-11T17:43:44.235215+00:00 [running]> on host TD6KSBP74.localdomain
+[2026-11-11T23:13:48.565+0530] {taskinstance.py:3157} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='numbers_etl' AIRFLOW_CTX_TASK_ID='square_even_numbers' AIRFLOW_CTX_EXECUTION_DATE='2026-11-11T17:43:44.235215+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-11-11T17:43:44.235215+00:00'
+[2026-11-11T23:13:48.566+0530] {taskinstance.py:740} INFO - ::endgroup::
+[2026-11-11T23:13:48.576+0530] {python.py:240} INFO - Done. Returned value was: [4, 16, 36, 64, 100]
+[2026-11-11T23:13:48.587+0530] {taskinstance.py:349} INFO - ::group::Post task execution logs
+[2026-11-11T23:13:48.587+0530] {taskinstance.py:361} INFO - Marking task as SUCCESS. dag_id=numbers_etl, task_id=square_even_numbers, run_id=manual__2026-11-11T17:43:44.235215+00:00, execution_date=20261111T174344, start_date=20261111T174348, end_date=20261111T174348
+[2026-11-11T23:13:48.603+0530] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2026-11-11T23:13:48.611+0530] {taskinstance.py:3924} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2026-11-11T23:13:48.617+0530] {local_task_job_runner.py:245} INFO - ::endgroup::

@@ -1,0 +1,1050 @@
+[2026-11-13T11:46:34.259+0530] {processor.py:186} INFO - Started process (PID=17224) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:46:34.260+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:46:34.261+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:34.261+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:46:34.272+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:46:34.284+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:34.284+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:46:34.300+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:46:34.300+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:46:34.313+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T11:47:04.434+0530] {processor.py:186} INFO - Started process (PID=17305) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:04.436+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:47:04.437+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:04.437+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:04.445+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:04.456+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:04.456+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:47:04.469+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:04.469+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:47:04.484+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.054 seconds
+[2026-11-13T11:47:35.139+0530] {processor.py:186} INFO - Started process (PID=17416) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:35.141+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:47:35.143+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:35.143+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:35.153+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:47:35.172+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:35.171+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:47:35.191+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:47:35.190+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:47:35.210+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.077 seconds
+[2026-11-13T11:48:05.564+0530] {processor.py:186} INFO - Started process (PID=17586) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:05.568+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:48:05.569+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:05.568+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:05.578+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:05.591+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:05.591+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:48:05.607+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:05.606+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:48:05.629+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T11:48:35.907+0530] {processor.py:186} INFO - Started process (PID=17694) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:35.911+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:48:35.912+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:35.912+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:35.921+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:48:35.933+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:35.933+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:48:35.946+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:48:35.946+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:48:35.964+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T11:49:06.247+0530] {processor.py:186} INFO - Started process (PID=17834) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:06.250+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:49:06.251+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:06.251+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:06.259+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:06.271+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:06.271+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:49:06.286+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:06.286+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:49:06.306+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.065 seconds
+[2026-11-13T11:49:36.579+0530] {processor.py:186} INFO - Started process (PID=17930) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:36.580+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:49:36.581+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:36.580+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:36.589+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:49:36.604+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:36.604+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:49:36.638+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:49:36.638+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:49:36.666+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.094 seconds
+[2026-11-13T11:50:06.912+0530] {processor.py:186} INFO - Started process (PID=18014) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:06.915+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:50:06.916+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:06.916+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:06.924+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:06.936+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:06.936+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:50:06.951+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:06.951+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:50:06.969+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T11:50:37.219+0530] {processor.py:186} INFO - Started process (PID=18105) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:37.222+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:50:37.226+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:37.225+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:37.236+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:50:37.254+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:37.254+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:50:37.273+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:50:37.273+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:50:37.291+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.076 seconds
+[2026-11-13T11:51:07.561+0530] {processor.py:186} INFO - Started process (PID=18262) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:07.564+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:51:07.566+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:07.565+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:07.577+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:07.592+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:07.591+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:51:07.606+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:07.606+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:51:07.622+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.065 seconds
+[2026-11-13T11:51:37.886+0530] {processor.py:186} INFO - Started process (PID=18407) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:37.889+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:51:37.890+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:37.890+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:37.913+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:51:37.941+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:37.941+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:51:37.957+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:51:37.957+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:51:37.975+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.093 seconds
+[2026-11-13T11:52:08.226+0530] {processor.py:186} INFO - Started process (PID=18577) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:08.227+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:52:08.229+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:08.228+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:08.239+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:08.254+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:08.254+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:52:08.268+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:08.268+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:52:08.285+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T11:52:38.838+0530] {processor.py:186} INFO - Started process (PID=18860) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:38.841+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:52:38.843+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:38.842+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:38.855+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:52:38.867+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:38.867+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:52:38.880+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:52:38.880+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:52:38.895+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T11:53:09.061+0530] {processor.py:186} INFO - Started process (PID=19014) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:09.065+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:53:09.066+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:09.065+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:09.074+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:09.086+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:09.086+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:53:09.099+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:09.099+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:53:09.113+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T11:53:39.268+0530] {processor.py:186} INFO - Started process (PID=19110) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:39.270+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:53:39.271+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:39.270+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:39.283+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:53:39.298+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:39.298+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:53:39.318+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:53:39.318+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:53:39.336+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.073 seconds
+[2026-11-13T11:54:09.467+0530] {processor.py:186} INFO - Started process (PID=19197) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:09.471+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:54:09.472+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:09.472+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:09.481+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:09.494+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:09.494+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:54:09.509+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:09.509+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:54:09.525+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T11:54:39.656+0530] {processor.py:186} INFO - Started process (PID=19413) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:39.658+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:54:39.659+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:39.659+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:39.669+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:54:39.681+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:39.681+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:54:39.695+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:54:39.695+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:54:39.712+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T11:55:09.855+0530] {processor.py:186} INFO - Started process (PID=19523) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:09.858+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:55:09.859+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:09.859+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:09.870+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:09.882+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:09.882+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:55:09.896+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:09.895+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:55:09.910+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T11:55:40.041+0530] {processor.py:186} INFO - Started process (PID=19689) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:40.045+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:55:40.046+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:40.046+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:40.062+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:55:40.094+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:40.093+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:55:40.121+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:55:40.121+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:55:40.141+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.108 seconds
+[2026-11-13T11:56:10.321+0530] {processor.py:186} INFO - Started process (PID=19888) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:56:10.322+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:56:10.323+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:10.322+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:56:10.331+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:56:10.343+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:10.343+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:56:10.356+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:56:10.355+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:56:10.373+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T11:57:01.452+0530] {processor.py:186} INFO - Started process (PID=20337) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:01.453+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:57:01.454+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:01.454+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:01.470+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:01.485+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:01.485+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:57:01.500+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:01.500+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:57:01.516+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.071 seconds
+[2026-11-13T11:57:34.780+0530] {processor.py:186} INFO - Started process (PID=20514) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:34.783+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:57:34.784+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:34.784+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:34.795+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:57:34.812+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:34.812+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:57:34.829+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:57:34.829+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:57:34.846+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T11:58:04.991+0530] {processor.py:186} INFO - Started process (PID=20599) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:04.993+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:58:04.994+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:04.994+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:05.006+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:05.022+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:05.022+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:58:05.038+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:05.038+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:58:05.053+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.067 seconds
+[2026-11-13T11:58:35.393+0530] {processor.py:186} INFO - Started process (PID=20683) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:35.396+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:58:35.397+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:35.397+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:35.406+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:58:35.418+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:35.418+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:58:35.433+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:58:35.432+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:58:35.449+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T11:59:05.777+0530] {processor.py:186} INFO - Started process (PID=20710) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:05.780+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:59:05.781+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:05.781+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:05.791+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:05.804+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:05.804+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:59:05.818+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:05.818+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:59:05.834+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T11:59:36.256+0530] {processor.py:186} INFO - Started process (PID=20723) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:36.257+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T11:59:36.258+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:36.258+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:36.266+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T11:59:36.279+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:36.279+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T11:59:36.292+0530] {logging_mixin.py:190} INFO - [2026-11-13T11:59:36.292+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T11:59:36.308+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:00:06.552+0530] {processor.py:186} INFO - Started process (PID=20776) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:06.555+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:00:06.556+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:06.556+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:06.565+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:06.577+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:06.577+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:00:06.591+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:06.590+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:00:06.605+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:00:36.874+0530] {processor.py:186} INFO - Started process (PID=20848) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:36.878+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:00:36.881+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:36.880+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:36.895+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:00:36.916+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:36.916+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:00:36.949+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:00:36.949+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:00:36.983+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.116 seconds
+[2026-11-13T12:01:07.294+0530] {processor.py:186} INFO - Started process (PID=20881) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:07.294+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:01:07.295+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:07.295+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:07.307+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:07.323+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:07.322+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:01:07.346+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:07.345+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:01:07.365+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.076 seconds
+[2026-11-13T12:01:37.619+0530] {processor.py:186} INFO - Started process (PID=20895) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:37.623+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:01:37.624+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:37.624+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:37.633+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:01:37.649+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:37.648+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:01:37.662+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:01:37.662+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:01:37.683+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:02:08.014+0530] {processor.py:186} INFO - Started process (PID=20943) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:08.018+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:02:08.019+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:08.018+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:08.032+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:08.047+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:08.047+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:02:08.064+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:08.064+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:02:08.081+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.072 seconds
+[2026-11-13T12:02:38.147+0530] {processor.py:186} INFO - Started process (PID=20994) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:38.148+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:02:38.150+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:38.150+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:38.166+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:02:38.187+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:38.186+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:02:38.214+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:02:38.214+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:02:38.237+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.099 seconds
+[2026-11-13T12:03:08.604+0530] {processor.py:186} INFO - Started process (PID=21023) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:08.607+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:03:08.608+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:08.608+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:08.617+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:08.635+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:08.635+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:03:08.650+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:08.650+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:03:08.669+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T12:03:38.922+0530] {processor.py:186} INFO - Started process (PID=21036) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:38.926+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:03:38.927+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:38.926+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:38.937+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:03:38.950+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:38.950+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:03:38.968+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:03:38.967+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:03:38.983+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:04:09.252+0530] {processor.py:186} INFO - Started process (PID=21062) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:09.255+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:04:09.256+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:09.256+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:09.268+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:09.282+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:09.281+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:04:09.297+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:09.296+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:04:09.316+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:04:39.588+0530] {processor.py:186} INFO - Started process (PID=21076) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:39.592+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:04:39.594+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:39.594+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:39.604+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:04:39.619+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:39.619+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:04:39.637+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:04:39.636+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:04:39.653+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.069 seconds
+[2026-11-13T12:05:09.923+0530] {processor.py:186} INFO - Started process (PID=21101) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:09.925+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:05:09.926+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:09.925+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:09.940+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:09.963+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:09.963+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:05:09.982+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:09.982+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:05:10.010+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.091 seconds
+[2026-11-13T12:05:40.256+0530] {processor.py:186} INFO - Started process (PID=21117) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:40.259+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:05:40.263+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:40.262+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:40.273+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:05:40.291+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:40.290+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:05:40.306+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:05:40.306+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:05:40.328+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.077 seconds
+[2026-11-13T12:06:10.629+0530] {processor.py:186} INFO - Started process (PID=21322) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:10.633+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:06:10.635+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:10.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:10.646+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:10.658+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:10.657+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:06:10.675+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:10.674+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:06:10.696+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.074 seconds
+[2026-11-13T12:06:40.972+0530] {processor.py:186} INFO - Started process (PID=21484) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:40.973+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:06:40.974+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:40.974+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:40.982+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:06:40.995+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:40.994+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:06:41.009+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:06:41.009+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:06:41.026+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T12:07:11.301+0530] {processor.py:186} INFO - Started process (PID=21678) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:11.304+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:07:11.305+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:11.305+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:11.315+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:11.327+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:11.327+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:07:11.344+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:11.343+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:07:11.359+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:07:41.653+0530] {processor.py:186} INFO - Started process (PID=21850) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:41.656+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:07:41.657+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:41.657+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:41.668+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:07:41.680+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:41.679+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:07:41.694+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:07:41.693+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:07:41.710+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.065 seconds
+[2026-11-13T12:08:11.973+0530] {processor.py:186} INFO - Started process (PID=21899) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:11.976+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:08:11.978+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:11.978+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:11.994+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:12.011+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:12.011+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:08:12.032+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:12.032+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:08:12.053+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.085 seconds
+[2026-11-13T12:08:42.304+0530] {processor.py:186} INFO - Started process (PID=21913) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:42.307+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:08:42.308+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:42.308+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:42.317+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:08:42.331+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:42.331+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:08:42.348+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:08:42.348+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:08:42.368+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.069 seconds
+[2026-11-13T12:09:12.619+0530] {processor.py:186} INFO - Started process (PID=21939) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:12.622+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:09:12.623+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:12.623+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:12.638+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:12.652+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:12.652+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:09:12.668+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:12.668+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:09:12.687+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.072 seconds
+[2026-11-13T12:09:42.942+0530] {processor.py:186} INFO - Started process (PID=21954) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:42.944+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:09:42.945+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:42.945+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:42.955+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:09:42.969+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:42.968+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:09:42.983+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:09:42.983+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:09:43.002+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:10:13.248+0530] {processor.py:186} INFO - Started process (PID=21985) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:13.251+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:10:13.252+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:13.252+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:13.261+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:13.278+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:13.277+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:10:13.291+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:13.291+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:10:13.310+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.067 seconds
+[2026-11-13T12:10:43.602+0530] {processor.py:186} INFO - Started process (PID=21998) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:43.603+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:10:43.604+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:43.604+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:43.613+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:10:43.629+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:43.629+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:10:43.646+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:10:43.645+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:10:43.664+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.069 seconds
+[2026-11-13T12:11:13.922+0530] {processor.py:186} INFO - Started process (PID=22023) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:13.925+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:11:13.926+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:13.926+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:13.937+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:13.953+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:13.953+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:11:13.970+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:13.969+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:11:13.988+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T12:11:44.264+0530] {processor.py:186} INFO - Started process (PID=22036) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:44.265+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:11:44.269+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:44.268+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:44.280+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:11:44.293+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:44.293+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:11:44.310+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:11:44.309+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:11:44.327+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:12:14.601+0530] {processor.py:186} INFO - Started process (PID=22073) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:14.604+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:12:14.605+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:14.605+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:14.614+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:14.631+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:14.630+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:12:14.645+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:14.645+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:12:14.663+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.067 seconds
+[2026-11-13T12:12:44.931+0530] {processor.py:186} INFO - Started process (PID=22086) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:44.933+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:12:44.934+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:44.934+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:44.943+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:12:44.956+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:44.956+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:12:44.970+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:12:44.969+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:12:44.984+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:13:15.294+0530] {processor.py:186} INFO - Started process (PID=22189) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:15.297+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:13:15.298+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:15.298+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:15.307+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:15.319+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:15.318+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:13:15.331+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:15.331+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:13:15.347+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:13:45.612+0530] {processor.py:186} INFO - Started process (PID=22226) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:45.613+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:13:45.614+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:45.614+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:45.623+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:13:45.635+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:45.635+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:13:45.659+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:13:45.659+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:13:45.678+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T12:14:15.938+0530] {processor.py:186} INFO - Started process (PID=22274) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:15.941+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:14:15.942+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:15.942+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:15.950+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:15.962+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:15.962+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:14:15.975+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:15.975+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:14:15.990+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:14:46.172+0530] {processor.py:186} INFO - Started process (PID=22334) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:46.173+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:14:46.174+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:46.173+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:46.183+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:14:46.196+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:46.196+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:14:46.209+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:14:46.209+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:14:46.226+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:15:16.378+0530] {processor.py:186} INFO - Started process (PID=22456) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:16.381+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:15:16.383+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:16.382+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:16.392+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:16.404+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:16.404+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:15:16.420+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:16.420+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:15:16.437+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:15:46.573+0530] {processor.py:186} INFO - Started process (PID=22494) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:46.576+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:15:46.577+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:46.576+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:46.585+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:15:46.596+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:46.596+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:15:46.613+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:15:46.613+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:15:46.630+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:16:16.760+0530] {processor.py:186} INFO - Started process (PID=22549) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:16.761+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:16:16.763+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:16.762+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:16.771+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:16.783+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:16.783+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:16:16.798+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:16.798+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:16:16.814+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:16:46.970+0530] {processor.py:186} INFO - Started process (PID=22587) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:46.973+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:16:46.974+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:46.973+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:46.983+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:16:46.996+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:46.996+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:16:47.009+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:16:47.009+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:16:47.026+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:17:17.170+0530] {processor.py:186} INFO - Started process (PID=22652) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:17.170+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:17:17.171+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:17.171+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:17.180+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:17.192+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:17.192+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:17:17.207+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:17.207+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:17:17.223+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:17:47.360+0530] {processor.py:186} INFO - Started process (PID=22798) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:47.363+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:17:47.364+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:47.364+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:47.373+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:17:47.385+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:47.385+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:17:47.398+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:17:47.398+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:17:47.417+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:18:17.538+0530] {processor.py:186} INFO - Started process (PID=22860) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:17.541+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:18:17.542+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:17.542+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:17.552+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:17.565+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:17.565+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:18:17.581+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:17.580+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:18:17.597+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.064 seconds
+[2026-11-13T12:18:47.749+0530] {processor.py:186} INFO - Started process (PID=22900) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:47.753+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:18:47.754+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:47.754+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:47.764+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:18:47.778+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:47.777+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:18:47.792+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:18:47.792+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:18:47.809+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:19:18.531+0530] {processor.py:186} INFO - Started process (PID=23009) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:18.534+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:19:18.535+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:18.534+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:18.543+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:18.554+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:18.554+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:19:18.567+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:18.567+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:19:18.581+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.055 seconds
+[2026-11-13T12:19:48.869+0530] {processor.py:186} INFO - Started process (PID=23094) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:48.872+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:19:48.872+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:48.872+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:48.881+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:19:48.893+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:48.893+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:19:48.906+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:19:48.906+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:19:48.921+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.056 seconds
+[2026-11-13T12:20:19.227+0530] {processor.py:186} INFO - Started process (PID=23297) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:19.230+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:20:19.232+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:19.231+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:19.242+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:19.257+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:19.257+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:20:19.274+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:19.273+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:20:19.290+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:20:49.591+0530] {processor.py:186} INFO - Started process (PID=23497) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:49.595+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:20:49.598+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:49.597+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:49.621+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:20:49.651+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:49.651+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:20:49.674+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:20:49.674+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:20:49.706+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.129 seconds
+[2026-11-13T12:21:20.036+0530] {processor.py:186} INFO - Started process (PID=23545) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:20.038+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:21:20.038+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:20.038+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:20.050+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:20.066+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:20.066+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:21:20.083+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:20.083+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:21:20.101+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.069 seconds
+[2026-11-13T12:21:50.373+0530] {processor.py:186} INFO - Started process (PID=23576) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:50.376+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:21:50.377+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:50.377+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:50.389+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:21:50.406+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:50.406+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:21:50.423+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:21:50.423+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:21:50.440+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.072 seconds
+[2026-11-13T12:22:20.774+0530] {processor.py:186} INFO - Started process (PID=23616) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:20.777+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:22:20.778+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:20.778+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:20.786+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:20.799+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:20.799+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:22:20.814+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:20.814+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:22:20.831+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:22:51.097+0530] {processor.py:186} INFO - Started process (PID=23657) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:51.100+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:22:51.101+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:51.101+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:51.110+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:22:51.124+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:51.124+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:22:51.137+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:22:51.137+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:22:51.153+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:23:21.270+0530] {processor.py:186} INFO - Started process (PID=23708) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:21.311+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:23:21.315+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:21.314+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:21.328+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:21.343+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:21.343+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:23:21.359+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:21.358+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:23:21.375+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.110 seconds
+[2026-11-13T12:23:51.574+0530] {processor.py:186} INFO - Started process (PID=23884) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:51.576+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:23:51.577+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:51.577+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:51.586+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:23:51.599+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:51.599+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:23:51.613+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:23:51.612+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:23:51.629+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T12:24:21.748+0530] {processor.py:186} INFO - Started process (PID=23958) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:21.751+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:24:21.753+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:21.753+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:21.769+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:21.783+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:21.783+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:24:21.796+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:21.796+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:24:21.811+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:24:52.571+0530] {processor.py:186} INFO - Started process (PID=24013) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:52.574+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:24:52.575+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:52.574+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:52.585+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:24:52.599+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:52.599+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:24:52.614+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:24:52.613+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:24:52.630+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.064 seconds
+[2026-11-13T12:25:22.907+0530] {processor.py:186} INFO - Started process (PID=24136) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:22.909+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:25:22.912+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:22.912+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:22.922+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:22.939+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:22.938+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:25:22.956+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:22.956+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:25:22.972+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.071 seconds
+[2026-11-13T12:25:53.236+0530] {processor.py:186} INFO - Started process (PID=24302) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:53.239+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:25:53.240+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:53.240+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:53.249+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:25:53.263+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:53.262+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:25:53.276+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:25:53.275+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:25:53.290+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T12:26:23.545+0530] {processor.py:186} INFO - Started process (PID=24351) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:23.548+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:26:23.549+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:23.549+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:23.558+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:23.569+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:23.569+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:26:23.583+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:23.583+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:26:23.598+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:26:53.706+0530] {processor.py:186} INFO - Started process (PID=24410) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:53.709+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:26:53.710+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:53.710+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:53.720+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:26:53.734+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:53.733+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:26:53.748+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:26:53.748+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:26:53.764+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:27:23.974+0530] {processor.py:186} INFO - Started process (PID=24475) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:23.976+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:27:23.977+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:23.977+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:23.987+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:24.002+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:24.001+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:27:24.019+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:24.019+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:27:24.034+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.067 seconds
+[2026-11-13T12:27:54.164+0530] {processor.py:186} INFO - Started process (PID=24578) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:54.167+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:27:54.169+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:54.169+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:54.178+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:27:54.191+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:54.190+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:27:54.204+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:27:54.204+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:27:54.220+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:28:24.333+0530] {processor.py:186} INFO - Started process (PID=24629) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:24.337+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:28:24.338+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:24.337+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:24.356+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:24.395+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:24.395+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:28:24.422+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:24.422+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:28:24.438+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.111 seconds
+[2026-11-13T12:28:54.971+0530] {processor.py:186} INFO - Started process (PID=24673) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:54.971+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:28:54.972+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:54.972+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:54.983+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:28:54.998+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:54.998+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:28:55.014+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:28:55.014+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:28:55.029+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:29:25.299+0530] {processor.py:186} INFO - Started process (PID=24722) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:25.303+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:29:25.304+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:25.303+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:25.312+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:25.324+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:25.324+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:29:25.337+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:25.337+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:29:25.353+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:29:56.771+0530] {processor.py:186} INFO - Started process (PID=24754) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:56.772+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:29:56.773+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:56.773+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:56.782+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:29:56.797+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:56.797+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:29:56.813+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:29:56.813+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:29:56.832+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:30:27.114+0530] {processor.py:186} INFO - Started process (PID=24779) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:27.115+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:30:27.116+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:27.116+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:27.129+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:27.144+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:27.144+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:30:27.160+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:27.159+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:30:27.179+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.070 seconds
+[2026-11-13T12:30:57.538+0530] {processor.py:186} INFO - Started process (PID=24792) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:57.542+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:30:57.546+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:57.545+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:57.578+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:30:57.593+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:57.593+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:30:57.609+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:30:57.609+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:30:57.632+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.099 seconds
+[2026-11-13T12:31:27.902+0530] {processor.py:186} INFO - Started process (PID=24885) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:27.905+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:31:27.909+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:27.908+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:27.922+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:27.938+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:27.937+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:31:27.956+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:27.956+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:31:27.980+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.083 seconds
+[2026-11-13T12:31:58.183+0530] {processor.py:186} INFO - Started process (PID=24986) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:58.184+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:31:58.185+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:58.185+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:58.194+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:31:58.207+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:58.207+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:31:58.223+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:31:58.222+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:31:58.240+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:32:28.580+0530] {processor.py:186} INFO - Started process (PID=25048) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:28.581+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:32:28.582+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:28.582+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:28.595+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:28.612+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:28.612+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:32:28.641+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:28.641+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:32:28.659+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.084 seconds
+[2026-11-13T12:32:59.461+0530] {processor.py:186} INFO - Started process (PID=25095) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:59.465+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:32:59.467+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:59.466+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:59.484+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:32:59.504+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:59.503+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:32:59.520+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:32:59.520+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:32:59.537+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.082 seconds
+[2026-11-13T12:33:30.310+0530] {processor.py:186} INFO - Started process (PID=25145) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:33:30.314+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:33:30.315+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:30.315+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:33:30.325+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:33:30.341+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:30.341+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:33:30.355+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:33:30.355+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:33:30.372+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:34:00.634+0530] {processor.py:186} INFO - Started process (PID=25177) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:00.636+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:34:00.637+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:00.637+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:00.648+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:00.662+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:00.662+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:34:00.676+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:00.676+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:34:00.693+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.064 seconds
+[2026-11-13T12:34:30.995+0530] {processor.py:186} INFO - Started process (PID=25241) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:30.998+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:34:30.999+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:30.999+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:31.009+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:34:31.024+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:31.024+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:34:31.039+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:34:31.039+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:34:31.060+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.071 seconds
+[2026-11-13T12:35:01.686+0530] {processor.py:186} INFO - Started process (PID=25288) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:01.689+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:35:01.690+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:01.690+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:01.714+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:01.730+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:01.729+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:35:01.747+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:01.746+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:35:01.765+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.084 seconds
+[2026-11-13T12:35:32.631+0530] {processor.py:186} INFO - Started process (PID=25329) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:32.633+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:35:32.635+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:32.635+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:32.645+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:35:32.658+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:32.658+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:35:32.673+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:35:32.673+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:35:32.690+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.064 seconds
+[2026-11-13T12:36:02.855+0530] {processor.py:186} INFO - Started process (PID=25381) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:02.858+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:36:02.859+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:02.858+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:02.872+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:02.890+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:02.890+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:36:02.909+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:02.909+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:36:02.925+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.074 seconds
+[2026-11-13T12:36:33.090+0530] {processor.py:186} INFO - Started process (PID=25459) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:33.091+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:36:33.092+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:33.092+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:33.102+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:36:33.121+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:33.121+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:36:33.139+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:36:33.139+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:36:33.159+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.073 seconds
+[2026-11-13T12:37:03.432+0530] {processor.py:186} INFO - Started process (PID=25515) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:03.435+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:37:03.436+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:03.436+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:03.448+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:03.461+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:03.460+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:37:03.475+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:03.474+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:37:03.499+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.075 seconds
+[2026-11-13T12:37:33.771+0530] {processor.py:186} INFO - Started process (PID=25571) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:33.771+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:37:33.772+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:33.772+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:33.782+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:37:33.796+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:33.796+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:37:33.824+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:37:33.824+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:37:33.841+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.077 seconds
+[2026-11-13T12:38:04.067+0530] {processor.py:186} INFO - Started process (PID=25622) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:04.070+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:38:04.071+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:04.071+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:04.082+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:04.095+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:04.095+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:38:04.110+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:04.110+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:38:04.131+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.069 seconds
+[2026-11-13T12:38:34.499+0530] {processor.py:186} INFO - Started process (PID=25842) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:34.502+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:38:34.503+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:34.503+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:34.513+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:34.526+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:34.525+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:38:34.540+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:34.539+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:38:34.556+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:38:54.490+0530] {processor.py:186} INFO - Started process (PID=25993) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:54.494+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:38:54.495+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:54.495+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:54.507+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:38:54.520+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:54.520+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:38:54.536+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:38:54.536+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:38:54.554+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.074 seconds
+[2026-11-13T12:39:24.785+0530] {processor.py:186} INFO - Started process (PID=26047) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:24.789+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:39:24.792+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:24.792+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:24.812+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:24.830+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:24.830+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:39:24.849+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:24.849+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:39:24.868+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.099 seconds
+[2026-11-13T12:39:55.225+0530] {processor.py:186} INFO - Started process (PID=26111) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:55.228+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:39:55.229+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:55.228+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:55.238+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:39:55.252+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:55.252+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:39:55.266+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:39:55.266+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:39:55.282+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:40:17.051+0530] {processor.py:186} INFO - Started process (PID=26336) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:40:17.051+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:40:17.052+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:17.052+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:40:17.063+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:40:17.076+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:17.076+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:40:17.090+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:40:17.090+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:40:17.106+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:41:57.933+0530] {processor.py:186} INFO - Started process (PID=26492) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:41:57.936+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:41:57.937+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:57.937+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:41:57.945+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:41:57.958+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:57.958+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:41:57.970+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:41:57.970+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:41:57.985+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T12:42:28.227+0530] {processor.py:186} INFO - Started process (PID=26529) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:28.230+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:42:28.232+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:28.231+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:28.237+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:28.251+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:28.251+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:42:28.265+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:28.265+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:42:28.279+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.056 seconds
+[2026-11-13T12:42:58.696+0530] {processor.py:186} INFO - Started process (PID=26542) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:58.699+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:42:58.700+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:58.700+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:58.706+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:42:58.724+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:58.724+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:42:58.736+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:42:58.736+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:42:58.753+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:43:29.160+0530] {processor.py:186} INFO - Started process (PID=26589) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:29.164+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:43:29.167+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:29.167+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:29.175+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:29.191+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:29.191+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:43:29.203+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:29.203+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:43:29.218+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:43:59.526+0530] {processor.py:186} INFO - Started process (PID=26602) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:59.530+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:43:59.531+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:59.530+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:59.539+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:43:59.555+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:59.555+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:43:59.570+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:43:59.570+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:43:59.587+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:44:29.965+0530] {processor.py:186} INFO - Started process (PID=26653) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:44:29.966+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:44:29.967+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:29.967+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:44:29.975+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:44:29.991+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:29.991+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:44:30.004+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:44:30.004+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:44:30.018+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:45:00.527+0530] {processor.py:186} INFO - Started process (PID=26750) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:00.530+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:45:00.532+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:00.531+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:00.541+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:00.560+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:00.560+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:45:00.574+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:00.574+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:45:00.593+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.076 seconds
+[2026-11-13T12:45:30.885+0530] {processor.py:186} INFO - Started process (PID=26811) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:30.888+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:45:30.891+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:30.891+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:30.898+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:45:30.913+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:30.913+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:45:30.925+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:45:30.925+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:45:30.941+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:46:01.367+0530] {processor.py:186} INFO - Started process (PID=26850) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:46:01.370+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:46:01.371+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:46:01.371+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:46:01.378+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:46:01.392+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:46:01.391+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:46:01.404+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:46:01.403+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:46:01.419+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.056 seconds
+[2026-11-13T12:47:54.354+0530] {processor.py:186} INFO - Started process (PID=27247) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:47:54.358+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:47:54.359+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:54.359+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:47:54.369+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:47:54.382+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:54.382+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:47:54.397+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:47:54.397+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:47:54.412+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:48:26.115+0530] {processor.py:186} INFO - Started process (PID=27284) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:26.115+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:48:26.116+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:26.116+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:26.126+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:26.139+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:26.139+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:48:26.156+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:26.156+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:48:26.173+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:48:57.681+0530] {processor.py:186} INFO - Started process (PID=27297) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:57.684+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:48:57.685+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:57.685+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:57.694+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:48:57.713+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:57.713+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:48:57.727+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:48:57.727+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:48:57.743+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.065 seconds
+[2026-11-13T12:49:28.152+0530] {processor.py:186} INFO - Started process (PID=27322) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:28.155+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:49:28.157+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:28.156+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:28.168+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:28.192+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:28.192+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:49:28.206+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:28.205+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:49:28.222+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.078 seconds
+[2026-11-13T12:49:59.744+0530] {processor.py:186} INFO - Started process (PID=27335) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:59.745+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:49:59.746+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:59.746+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:59.757+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:49:59.773+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:59.773+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:49:59.787+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:49:59.787+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:49:59.803+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:51:37.987+0530] {processor.py:186} INFO - Started process (PID=27757) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:51:37.990+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:51:37.991+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:37.991+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:51:38.001+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:51:38.015+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:38.015+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:51:38.029+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:51:38.029+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:51:38.045+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:52:08.322+0530] {processor.py:186} INFO - Started process (PID=27888) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:08.323+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:52:08.324+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:08.324+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:08.334+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:08.347+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:08.347+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:52:08.361+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:08.361+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:52:08.377+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:52:38.786+0530] {processor.py:186} INFO - Started process (PID=28045) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:38.789+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:52:38.790+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:38.790+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:38.799+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:52:38.812+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:38.812+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:52:38.826+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:52:38.826+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:52:38.842+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:53:09.203+0530] {processor.py:186} INFO - Started process (PID=28245) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:09.204+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:53:09.205+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:09.204+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:09.213+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:09.226+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:09.226+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:53:09.239+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:09.239+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:53:09.254+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T12:53:39.582+0530] {processor.py:186} INFO - Started process (PID=28319) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:39.586+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:53:39.587+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:39.587+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:39.597+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:53:39.611+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:39.611+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:53:39.625+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:53:39.624+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:53:39.639+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:54:10.092+0530] {processor.py:186} INFO - Started process (PID=28454) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:10.092+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:54:10.093+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:10.093+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:10.103+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:10.117+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:10.116+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:54:10.130+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:10.130+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:54:10.146+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:54:40.527+0530] {processor.py:186} INFO - Started process (PID=28624) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:40.530+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:54:40.530+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:40.530+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:40.540+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:54:40.552+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:40.552+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:54:40.564+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:54:40.564+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:54:40.579+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.057 seconds
+[2026-11-13T12:55:10.864+0530] {processor.py:186} INFO - Started process (PID=28799) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:10.867+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:55:10.868+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:10.868+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:10.877+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:10.889+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:10.889+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:55:10.902+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:10.902+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:55:10.918+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T12:55:50.052+0530] {processor.py:186} INFO - Started process (PID=29120) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:50.055+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:55:50.056+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:50.055+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:50.068+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:55:50.081+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:50.081+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:55:50.094+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:55:50.094+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:55:50.110+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T12:56:20.587+0530] {processor.py:186} INFO - Started process (PID=29174) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:56:20.588+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:56:20.589+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:20.589+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:56:20.598+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:56:20.611+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:20.611+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:56:20.626+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:56:20.626+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:56:20.649+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T12:57:45.249+0530] {processor.py:186} INFO - Started process (PID=29466) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:57:45.252+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:57:45.253+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:45.253+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:57:45.262+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:57:45.279+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:45.278+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:57:45.296+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:57:45.296+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:57:45.313+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:58:17.033+0530] {processor.py:186} INFO - Started process (PID=29491) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:17.036+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:58:17.037+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:17.037+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:17.045+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:17.059+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:17.059+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:58:17.073+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:17.073+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:58:17.090+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.061 seconds
+[2026-11-13T12:58:47.507+0530] {processor.py:186} INFO - Started process (PID=29516) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:47.510+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:58:47.511+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:47.510+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:47.521+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:58:47.537+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:47.537+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:58:47.554+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:58:47.554+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:58:47.569+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.068 seconds
+[2026-11-13T12:59:17.955+0530] {processor.py:186} INFO - Started process (PID=29552) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:17.956+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:59:17.956+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:17.956+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:17.965+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:17.980+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:17.980+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:59:17.994+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:17.994+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:59:18.011+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T12:59:48.578+0530] {processor.py:186} INFO - Started process (PID=29587) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:48.581+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T12:59:48.582+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:48.582+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:48.591+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T12:59:48.604+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:48.604+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T12:59:48.619+0530] {logging_mixin.py:190} INFO - [2026-11-13T12:59:48.619+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T12:59:48.634+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.060 seconds
+[2026-11-13T13:01:33.959+0530] {processor.py:186} INFO - Started process (PID=30218) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:01:33.963+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:01:33.965+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:33.964+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:01:33.972+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:01:33.985+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:33.985+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:01:33.996+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:01:33.996+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:01:34.012+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.059 seconds
+[2026-11-13T13:02:04.280+0530] {processor.py:186} INFO - Started process (PID=30275) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:04.284+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:02:04.285+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:04.285+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:04.292+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:04.307+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:04.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:02:04.322+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:04.322+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:02:04.340+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T13:02:34.711+0530] {processor.py:186} INFO - Started process (PID=30301) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:34.712+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:02:34.713+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:34.713+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:34.719+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:02:34.734+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:34.733+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:02:34.747+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:02:34.747+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:02:34.763+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.056 seconds
+[2026-11-13T13:03:05.182+0530] {processor.py:186} INFO - Started process (PID=30446) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:05.186+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:03:05.187+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:05.187+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:05.196+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:05.213+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:05.213+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:03:05.224+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:05.224+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:03:05.239+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T13:03:35.539+0530] {processor.py:186} INFO - Started process (PID=30601) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:35.542+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:03:35.543+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:35.543+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:35.549+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:03:35.562+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:35.562+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:03:35.573+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:03:35.573+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:03:35.590+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T13:04:05.992+0530] {processor.py:186} INFO - Started process (PID=30736) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:05.995+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:04:05.996+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:05.996+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:06.003+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:06.019+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:06.019+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:04:06.032+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:06.032+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:04:06.046+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.058 seconds
+[2026-11-13T13:04:36.490+0530] {processor.py:186} INFO - Started process (PID=30835) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:36.493+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:04:36.495+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:36.494+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:36.501+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:04:36.515+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:36.515+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:04:36.528+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:04:36.528+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:04:36.544+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.060 seconds
+[2026-11-13T13:05:06.955+0530] {processor.py:186} INFO - Started process (PID=30949) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:05:06.957+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:05:06.960+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:06.959+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:05:06.968+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:05:06.985+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:06.984+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:05:06.998+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:05:06.998+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:05:07.014+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.064 seconds
+[2026-11-13T13:06:50.254+0530] {processor.py:186} INFO - Started process (PID=31306) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:06:50.257+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:06:50.258+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:50.258+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:06:50.271+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:06:50.283+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:50.283+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:06:50.296+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:06:50.295+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:06:50.312+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.063 seconds
+[2026-11-13T13:08:03.525+0530] {processor.py:186} INFO - Started process (PID=31552) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:03.528+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:08:03.529+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:03.529+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:03.539+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:03.553+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:03.552+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:08:03.571+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:03.570+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:08:03.590+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.071 seconds
+[2026-11-13T13:08:35.133+0530] {processor.py:186} INFO - Started process (PID=31582) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:35.134+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:08:35.134+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:35.134+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:35.143+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:08:35.156+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:35.156+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:08:35.170+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:08:35.170+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:08:35.190+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.062 seconds
+[2026-11-13T13:09:05.578+0530] {processor.py:186} INFO - Started process (PID=31638) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:05.582+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:09:05.583+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:05.583+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:05.594+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:05.606+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:05.606+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:09:05.619+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:05.619+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:09:05.637+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.066 seconds
+[2026-11-13T13:09:36.065+0530] {processor.py:186} INFO - Started process (PID=31651) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:36.069+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:09:36.070+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:36.070+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:36.080+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:09:36.095+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:36.095+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:09:36.110+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:09:36.110+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:09:36.125+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.065 seconds
+[2026-11-13T13:11:06.505+0530] {processor.py:186} INFO - Started process (PID=31756) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:11:06.508+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py for tasks to queue
+[2026-11-13T13:11:06.509+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:06.509+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:11:06.521+0530] {processor.py:925} INFO - DAG(s) 'daily_report' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py
+[2026-11-13T13:11:06.537+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:06.537+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:11:06.554+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:06.554+0530] {dag.py:4180} INFO - Setting next_dagrun for daily_report to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:11:06.575+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py took 0.075 seconds

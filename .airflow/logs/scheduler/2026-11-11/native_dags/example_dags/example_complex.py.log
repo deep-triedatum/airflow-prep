@@ -1,0 +1,43 @@
+[2026-11-11T23:30:49.135+0530] {processor.py:186} INFO - Started process (PID=62677) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:30:49.136+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-11-11T23:30:49.136+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.136+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:30:49.146+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:30:49.221+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.220+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG:example_complex
+[2026-11-11T23:30:49.233+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.233+0530] {override.py:1932} INFO - Created Permission View: can edit on DAG:example_complex
+[2026-11-11T23:30:49.244+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.243+0530] {override.py:1932} INFO - Created Permission View: can read on DAG:example_complex
+[2026-11-11T23:30:49.256+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.256+0530] {override.py:1932} INFO - Created Permission View: can create on DAG Run:example_complex
+[2026-11-11T23:30:49.263+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.263+0530] {override.py:1932} INFO - Created Permission View: can delete on DAG Run:example_complex
+[2026-11-11T23:30:49.270+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.270+0530] {override.py:1932} INFO - Created Permission View: menu access on DAG Run:example_complex
+[2026-11-11T23:30:49.276+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.276+0530] {override.py:1932} INFO - Created Permission View: can read on DAG Run:example_complex
+[2026-11-11T23:30:49.277+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.277+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:30:49.284+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.284+0530] {dag.py:3262} INFO - Creating ORM DAG for example_complex
+[2026-11-11T23:30:49.285+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:30:49.284+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-11-11T23:30:49.299+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.169 seconds
+[2026-11-11T23:32:39.035+0530] {processor.py:186} INFO - Started process (PID=63908) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:32:39.038+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-11-11T23:32:39.039+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:39.039+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:32:39.049+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:32:39.068+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:39.068+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:32:39.078+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:32:39.078+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-11-11T23:32:39.097+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2026-11-11T23:33:38.112+0530] {processor.py:186} INFO - Started process (PID=64285) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:33:38.115+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-11-11T23:33:38.116+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:38.116+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:33:38.129+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:33:38.147+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:38.146+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:33:38.156+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:33:38.156+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-11-11T23:33:38.174+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.066 seconds
+[2026-11-11T23:35:09.413+0530] {processor.py:186} INFO - Started process (PID=65798) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:35:09.416+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-11-11T23:35:09.417+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:09.416+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:35:09.426+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:35:09.445+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:09.445+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:35:09.453+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:35:09.453+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-11-11T23:35:09.473+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
+[2026-11-11T23:36:08.779+0530] {processor.py:186} INFO - Started process (PID=66304) to work on /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:36:08.783+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-11-11T23:36:08.784+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:36:08.784+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:36:08.793+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2026-11-11T23:36:08.810+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:36:08.810+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-11T23:36:08.819+0530] {logging_mixin.py:190} INFO - [2026-11-11T23:36:08.819+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-11-11T23:36:08.837+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/.venv2/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.065 seconds
