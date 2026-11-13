@@ -5611,3 +5611,267 @@ File Path                                                                      P
 /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:39:32                      12
 /home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:39:36                      12
 ================================================================================
+[2026-11-13T13:11:34.508+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:41:04                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:41:34                      16
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:41:03                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:41:07                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:41:06                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:41:05                      10
+================================================================================
+[2026-11-13T13:11:46.558+0530] {manager.py:821} INFO - Searching for files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:11:46.559+0530] {manager.py:824} INFO - There are 6 files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:12:04.814+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:41:37                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:41:39                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:42:04                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:41:38                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:41:36                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:41:35                      12
+================================================================================
+[2026-11-13T13:12:35.143+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:42:05                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:42:08                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:42:09                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:42:08                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:42:07                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:42:35                      12
+================================================================================
+[2026-11-13T13:13:05.483+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.11s           2026-11-13T07:43:05                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:42:38                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:42:39                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:42:37                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:42:36                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:42:40                      10
+================================================================================
+[2026-11-13T13:13:35.799+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:43:09                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:43:08                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:43:06                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:43:07                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:43:35                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:43:10                      10
+================================================================================
+[2026-11-13T13:14:06.118+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:43:36                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:43:39                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:43:38                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:43:39                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:44:06                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:43:40                      10
+================================================================================
+[2026-11-13T13:14:36.460+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:44:10                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:44:36                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:44:07                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:44:08                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:44:11                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:44:09                      10
+================================================================================
+[2026-11-13T13:15:34.088+0530] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2026-11-13T13:16:31.872+0530] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2026-11-13T13:16:31.875+0530] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2026-11-13T13:16:31.875+0530] {manager.py:485} INFO - Checking for new files in /home/deeps/projects/data-pipline/airflow-prep/dags every 300 seconds
+[2026-11-13T13:16:31.876+0530] {manager.py:821} INFO - Searching for files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:16:31.877+0530] {manager.py:824} INFO - There are 6 files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:16:32.117+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.21s           2026-11-13T07:46:32                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         0           0                                                            0
+================================================================================
+[2026-11-13T13:17:07.200+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  4.12s           2026-11-13T07:47:07                      19
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.11s           2026-11-13T07:46:33                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.11s           2026-11-13T07:46:32                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:46:34                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:46:35                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:46:36                      10
+================================================================================
+[2026-11-13T13:17:22.174+0530] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15
+[2026-11-13T13:17:33.589+0530] {manager.py:483} INFO - Processing files using up to 1 processes at a time 
+[2026-11-13T13:17:33.590+0530] {manager.py:484} INFO - Process each file at most once every 30 seconds
+[2026-11-13T13:17:33.590+0530] {manager.py:485} INFO - Checking for new files in /home/deeps/projects/data-pipline/airflow-prep/dags every 300 seconds
+[2026-11-13T13:17:33.590+0530] {manager.py:821} INFO - Searching for files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:17:33.593+0530] {manager.py:824} INFO - There are 6 files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:17:33.831+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.20s           2026-11-13T07:47:33                      33
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           0           0                                                            0
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         0           0                                                            0
+================================================================================
+[2026-11-13T13:18:44.638+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.20s           2026-11-13T07:47:38                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.11s           2026-11-13T07:47:34                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:47:36                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:47:38                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:48:44                      16
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:47:37                      10
+================================================================================
+[2026-11-13T13:19:14.858+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:48:47                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:48:48                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:48:46                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:48:44                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:49:14                      16
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:48:45                      10
+================================================================================
+[2026-11-13T13:19:45.325+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:49:20                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:49:16                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:49:19                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:49:17                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:49:18                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:49:45                      12
+================================================================================
+[2026-11-13T13:21:03.047+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:49:49                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:49:50                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:49:47                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:49:46                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:49:48                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:51:03                      16
+================================================================================
+[2026-11-13T13:21:33.737+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:51:33                      16
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:51:05                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:51:07                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:51:06                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:51:04                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:51:03                      12
+================================================================================
+[2026-11-13T13:22:04.514+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:52:04                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:51:34                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:51:37                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:51:38                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:51:39                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:51:36                      10
+================================================================================
+[2026-11-13T13:22:33.714+0530] {manager.py:821} INFO - Searching for files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:22:33.716+0530] {manager.py:824} INFO - There are 6 files in /home/deeps/projects/data-pipline/airflow-prep/dags
+[2026-11-13T13:22:34.873+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.11s           2026-11-13T07:52:34                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:52:09                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:52:08                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:52:05                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:52:06                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:52:07                      10
+================================================================================
+[2026-11-13T13:23:05.237+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:52:36                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:52:38                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:52:38                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:52:40                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:52:37                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:53:05                      12
+================================================================================
+[2026-11-13T13:23:35.558+0530] {manager.py:997} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run               Last # of DB Queries
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------  ----------------------
+/home/deeps/projects/data-pipline/airflow-prep/dags/greet.py                                            1           0  0.10s           2026-11-13T07:53:07                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/numbers_etl.py                                      1           0  0.10s           2026-11-13T07:53:10                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py                           1           0  0.10s           2026-11-13T07:53:06                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py                                         1           0  0.10s           2026-11-13T07:53:08                      10
+/home/deeps/projects/data-pipline/airflow-prep/dags/daily_report.py                                     1           0  0.10s           2026-11-13T07:53:09                      12
+/home/deeps/projects/data-pipline/airflow-prep/dags/email_on_sla_breach.py                              1           0  0.10s           2026-11-13T07:53:35                      12
+================================================================================
+[2026-11-13T13:23:37.701+0530] {manager.py:465} INFO - Exiting gracefully upon receiving signal 15

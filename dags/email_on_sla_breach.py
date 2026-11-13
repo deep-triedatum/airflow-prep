@@ -12,14 +12,13 @@ def slow_job():
     time.sleep(60)
     print("Slow job complete!")
 
-def sla_miss_alart(dag, task_list):
-    print(f"SLA missed in {dag.dag_id}: {task_list}")
+# def sla_miss_alart(dag, task_list, blocking_task_list, slas, blocking_tis):
+#     print(f"SLA missed in {dag.dag_id}: {task_list}")
 
 with DAG(
-    dag_id="sla_miss_alart_v1",
+    dag_id="sla_miss_alart_v2",
     start_date=datetime(2026,1,1),
     schedule="*/5 * * * *",
-    sla_miss_callback=sla_miss_alart,
     default_args=default_args,
     catchup=False    
 ) as dag:

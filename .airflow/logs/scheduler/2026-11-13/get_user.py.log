@@ -1048,3 +1048,129 @@
 [2026-11-13T13:11:05.512+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:05.512+0530] {dag.py:3239} INFO - Sync 1 DAGs
 [2026-11-13T13:11:05.522+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:05.522+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
 [2026-11-13T13:11:05.540+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.059 seconds
+[2026-11-13T13:11:37.802+0530] {processor.py:186} INFO - Started process (PID=32164) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:11:37.803+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:11:37.804+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:37.804+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:11:37.810+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:11:37.823+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:37.822+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:11:37.831+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:37.831+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:11:37.845+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.049 seconds
+[2026-11-13T13:12:08.108+0530] {processor.py:186} INFO - Started process (PID=32299) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:08.111+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:12:08.112+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:08.112+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:08.121+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:08.133+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:08.133+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:12:08.141+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:08.141+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:12:08.156+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.052 seconds
+[2026-11-13T13:12:38.434+0530] {processor.py:186} INFO - Started process (PID=32367) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:38.437+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:12:38.439+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:38.438+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:38.446+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:12:38.459+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:38.459+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:12:38.470+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:38.469+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:12:38.488+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.058 seconds
+[2026-11-13T13:13:08.795+0530] {processor.py:186} INFO - Started process (PID=32550) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:08.798+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:13:08.799+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:08.799+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:08.807+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:08.820+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:08.819+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:13:08.827+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:08.827+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:13:08.843+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.054 seconds
+[2026-11-13T13:13:39.113+0530] {processor.py:186} INFO - Started process (PID=32886) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:39.117+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:13:39.118+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:39.117+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:39.125+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:13:39.136+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:39.136+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:13:39.145+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:39.144+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:13:39.160+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.053 seconds
+[2026-11-13T13:14:09.414+0530] {processor.py:186} INFO - Started process (PID=33274) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:09.417+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:14:09.418+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:09.418+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:09.425+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:09.437+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:09.437+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:14:09.445+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:09.445+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:14:09.464+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.054 seconds
+[2026-11-13T13:14:39.759+0530] {processor.py:186} INFO - Started process (PID=33493) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:39.762+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:14:39.763+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:39.762+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:39.772+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:14:39.790+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:39.790+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:14:39.801+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:39.801+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:14:39.822+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.069 seconds
+[2026-11-13T13:16:34.251+0530] {processor.py:186} INFO - Started process (PID=34249) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:16:34.255+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:16:34.259+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:34.257+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:16:34.272+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:16:34.288+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:34.288+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:16:34.300+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:34.300+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:16:34.317+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.071 seconds
+[2026-11-13T13:17:10.512+0530] {processor.py:186} INFO - Started process (PID=34380) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:10.515+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:17:10.516+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:10.516+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:10.523+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:10.536+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:10.535+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:17:10.544+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:10.544+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:17:10.561+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.056 seconds
+[2026-11-13T13:17:37.182+0530] {processor.py:186} INFO - Started process (PID=34605) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:37.183+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:17:37.184+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:37.183+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:37.193+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:17:37.205+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:37.205+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:17:37.214+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:37.214+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:17:37.233+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.057 seconds
+[2026-11-13T13:18:46.714+0530] {processor.py:186} INFO - Started process (PID=34857) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:18:46.717+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:18:46.718+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:46.718+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:18:46.728+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:18:46.739+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:46.739+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:18:46.747+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:46.747+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:18:46.763+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.053 seconds
+[2026-11-13T13:19:18.195+0530] {processor.py:186} INFO - Started process (PID=34885) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:18.198+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:19:18.200+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:18.199+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:18.207+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:18.219+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:18.219+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:19:18.227+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:18.227+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:19:18.244+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.052 seconds
+[2026-11-13T13:19:48.649+0530] {processor.py:186} INFO - Started process (PID=34910) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:48.652+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:19:48.653+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:48.653+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:48.660+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:19:48.672+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:48.672+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:19:48.681+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:48.680+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:19:48.697+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.052 seconds
+[2026-11-13T13:21:05.134+0530] {processor.py:186} INFO - Started process (PID=34989) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:05.135+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:21:05.136+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:05.136+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:05.143+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:05.155+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:05.155+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:21:05.163+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:05.163+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:21:05.178+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.049 seconds
+[2026-11-13T13:21:37.054+0530] {processor.py:186} INFO - Started process (PID=35026) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:37.057+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:21:37.059+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:37.058+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:37.068+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:21:37.081+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:37.080+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:21:37.090+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:37.089+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:21:37.106+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.058 seconds
+[2026-11-13T13:22:07.816+0530] {processor.py:186} INFO - Started process (PID=35067) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:07.818+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:22:07.819+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:07.819+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:07.825+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:07.838+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:07.838+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:22:07.850+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:07.850+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:22:07.868+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.057 seconds
+[2026-11-13T13:22:38.180+0530] {processor.py:186} INFO - Started process (PID=35095) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:38.183+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:22:38.184+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:38.184+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:38.191+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:22:38.203+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:38.203+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:22:38.211+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:38.210+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:22:38.229+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.054 seconds
+[2026-11-13T13:23:08.543+0530] {processor.py:186} INFO - Started process (PID=35120) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:23:08.544+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py for tasks to queue
+[2026-11-13T13:23:08.546+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:08.545+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:23:08.554+0530] {processor.py:925} INFO - DAG(s) 'get_users' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py
+[2026-11-13T13:23:08.569+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:08.569+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:23:08.578+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:08.577+0530] {dag.py:4180} INFO - Setting next_dagrun for get_users to None, run_after=None
+[2026-11-13T13:23:08.596+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/get_user.py took 0.057 seconds

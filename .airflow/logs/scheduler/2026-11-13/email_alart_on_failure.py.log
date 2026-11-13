@@ -1070,3 +1070,136 @@
 [2026-11-13T13:11:03.474+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:03.473+0530] {dag.py:3239} INFO - Sync 1 DAGs
 [2026-11-13T13:11:03.490+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:03.490+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
 [2026-11-13T13:11:03.507+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.068 seconds
+[2026-11-13T13:11:35.541+0530] {processor.py:186} INFO - Started process (PID=32157) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:11:35.541+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:11:35.542+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:35.542+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:11:35.550+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:11:35.563+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:35.563+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:11:35.576+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:11:35.576+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:11:35.590+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.054 seconds
+[2026-11-13T13:12:05.855+0530] {processor.py:186} INFO - Started process (PID=32297) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:05.858+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:12:05.859+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:05.859+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:05.868+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:05.880+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:05.880+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:12:05.893+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:05.893+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:12:05.907+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.059 seconds
+[2026-11-13T13:12:36.178+0530] {processor.py:186} INFO - Started process (PID=32365) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:36.181+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:12:36.182+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:36.181+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:36.194+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:12:36.213+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:36.212+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:12:36.230+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:12:36.229+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:12:36.246+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.074 seconds
+[2026-11-13T13:13:06.533+0530] {processor.py:186} INFO - Started process (PID=32524) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:06.536+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:13:06.537+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:06.537+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:06.548+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:06.565+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:06.565+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:13:06.578+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:06.578+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:13:06.594+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.068 seconds
+[2026-11-13T13:13:36.845+0530] {processor.py:186} INFO - Started process (PID=32884) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:36.848+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:13:36.849+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:36.849+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:36.858+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:13:36.870+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:36.870+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:13:36.885+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:13:36.885+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:13:36.901+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.062 seconds
+[2026-11-13T13:14:07.157+0530] {processor.py:186} INFO - Started process (PID=33244) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:07.158+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:14:07.159+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:07.159+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:07.168+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:07.183+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:07.183+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:14:07.195+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:07.195+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:14:07.211+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.059 seconds
+[2026-11-13T13:14:37.500+0530] {processor.py:186} INFO - Started process (PID=33480) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:37.503+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:14:37.504+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:37.504+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:37.514+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:14:37.530+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:37.530+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:14:37.551+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:14:37.551+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:14:37.575+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.082 seconds
+[2026-11-13T13:16:32.198+0530] {processor.py:186} INFO - Started process (PID=34208) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:16:32.201+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:16:32.203+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:32.202+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:16:32.222+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:16:32.248+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:32.248+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:16:32.265+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:16:32.265+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:16:32.290+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.097 seconds
+[2026-11-13T13:17:08.247+0530] {processor.py:186} INFO - Started process (PID=34378) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:08.250+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:17:08.252+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:08.252+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:08.261+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:08.274+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:08.274+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:17:08.287+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:08.287+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:17:08.302+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.060 seconds
+[2026-11-13T13:17:34.895+0530] {processor.py:186} INFO - Started process (PID=34586) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:34.896+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:17:34.898+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:34.897+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:34.914+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:17:34.932+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:34.932+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:17:34.954+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:17:34.954+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:17:34.980+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.092 seconds
+[2026-11-13T13:18:44.672+0530] {processor.py:186} INFO - Started process (PID=34846) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:18:44.673+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:18:44.674+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:44.674+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:18:44.687+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:18:44.701+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:44.701+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:18:44.714+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:18:44.714+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:18:44.729+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.061 seconds
+[2026-11-13T13:19:15.917+0530] {processor.py:186} INFO - Started process (PID=34883) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:15.921+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:19:15.922+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:15.921+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:15.932+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:15.944+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:15.944+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:19:15.958+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:15.958+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:19:15.972+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.062 seconds
+[2026-11-13T13:19:46.375+0530] {processor.py:186} INFO - Started process (PID=34908) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:46.378+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:19:46.379+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:46.378+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:46.387+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:19:46.400+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:46.399+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:19:46.413+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:19:46.413+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:19:46.429+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.059 seconds
+[2026-11-13T13:21:03.082+0530] {processor.py:186} INFO - Started process (PID=34968) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:03.085+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:21:03.086+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:03.086+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:03.095+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:03.109+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:03.109+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:21:03.122+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:03.122+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:21:03.136+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.058 seconds
+[2026-11-13T13:21:34.787+0530] {processor.py:186} INFO - Started process (PID=35012) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:34.790+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:21:34.792+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:34.791+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:34.801+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:21:34.812+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:34.812+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:21:34.825+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:21:34.824+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:21:34.850+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.068 seconds
+[2026-11-13T13:22:05.553+0530] {processor.py:186} INFO - Started process (PID=35065) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:05.555+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:22:05.557+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:05.556+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:05.569+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:05.589+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:05.588+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:22:05.607+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:05.607+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:22:05.626+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.078 seconds
+[2026-11-13T13:22:35.917+0530] {processor.py:186} INFO - Started process (PID=35093) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:35.920+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:22:35.922+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:35.921+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:35.933+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:22:35.945+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:35.944+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:22:35.957+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:22:35.957+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:22:35.973+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.062 seconds
+[2026-11-13T13:23:06.282+0530] {processor.py:186} INFO - Started process (PID=35118) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:06.285+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:23:06.286+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:06.286+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:06.295+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:06.307+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:06.307+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:23:06.320+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:06.320+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:23:06.336+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.060 seconds
+[2026-11-13T13:23:36.598+0530] {processor.py:186} INFO - Started process (PID=35251) to work on /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:36.601+0530] {processor.py:914} INFO - Processing file /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py for tasks to queue
+[2026-11-13T13:23:36.602+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:36.602+0530] {dagbag.py:588} INFO - Filling up the DagBag from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:36.610+0530] {processor.py:925} INFO - DAG(s) 'email_alert_on_failure' retrieved from /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py
+[2026-11-13T13:23:36.624+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:36.624+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-11-13T13:23:36.642+0530] {logging_mixin.py:190} INFO - [2026-11-13T13:23:36.642+0530] {dag.py:4180} INFO - Setting next_dagrun for email_alert_on_failure to 2026-11-13 00:00:00+00:00, run_after=2026-11-14 00:00:00+00:00
+[2026-11-13T13:23:36.659+0530] {processor.py:208} INFO - Processing /home/deeps/projects/data-pipline/airflow-prep/dags/email_alart_on_failure.py took 0.067 seconds
